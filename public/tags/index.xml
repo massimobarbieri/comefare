@@ -29,5 +29,35 @@
       
     </item>
     
+    <item>
+      <title>Servizi</title>
+      <link>http://localhost:1313/tags/servizi/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/servizi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stampa</title>
+      <link>http://localhost:1313/tags/stampa/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/stampa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wifi</title>
+      <link>http://localhost:1313/tags/wifi/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/wifi/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

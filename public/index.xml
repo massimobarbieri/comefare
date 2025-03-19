@@ -11,231 +11,51 @@
     
     <item>
       <title>Accedere al disco di rete Dati DSCG (s:)</title>
-      <link>http://localhost:1313/rete/20250319_accedere-al-disco-di-rete-s/</link>
+      <link>http://localhost:1313/guide/rete/20250319_accedere-al-disco-di-rete-s/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/rete/20250319_accedere-al-disco-di-rete-s/</guid>
+      <guid>http://localhost:1313/guide/rete/20250319_accedere-al-disco-di-rete-s/</guid>
       <description>Il disco di rete Dati DSCG (s:) è uno spazio di archiviazione condiviso collocato sui server dei servizi informatici di Ateneo. In questa guida puoi scoprire come utilizzarlo.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rete/20250319_accedere-al-disco-di-rete-s/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/rete/20250319_accedere-al-disco-di-rete-s/featured.png" />
     </item>
     
     <item>
-      <title>Blowfish Tutorial</title>
-      <link>http://localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <title>Come richiedere una stampa sul plotter</title>
+      <link>http://localhost:1313/guide/servizi/plotter/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</guid>
-      <description></description>
-      
+      <guid>http://localhost:1313/guide/servizi/plotter/</guid>
+      <description>Tutto quello che devi sapere per poter richiedere una stampa sul plotter dipartimentale: come preparare il file, come richiedere la stampa, costi</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/plotter/featured.png" />
     </item>
     
     <item>
-      <title>Blowfish チュートリアル</title>
-      <link>http://localhost:1313/examples/blowfish-tutorial/_index.ja/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <title>Come usare le fotocopriatrici dipartimentali</title>
+      <link>http://localhost:1313/guide/servizi/fotocopiatrici/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.ja/</guid>
-      <description></description>
-      
+      <guid>http://localhost:1313/guide/servizi/fotocopiatrici/</guid>
+      <description>Tutto quello che devi sapere per poter utilizzare le fotocopiatrici dipartimentali</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/fotocopiatrici/featured.jpg" />
     </item>
     
     <item>
-      <title>Blowfish Tutorial - Repo</title>
-      <link>http://localhost:1313/examples/repo-blowfish-tutorial/_index.zh-cn/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <title>Come usare la VPN di UNIMORE</title>
+      <link>http://localhost:1313/guide/rete/vpn/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/examples/repo-blowfish-tutorial/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish チュートリアル - レポジトリ</title>
-      <link>http://localhost:1313/examples/repo-blowfish-tutorial/_index.ja/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-tutorial/_index.ja/</guid>
-      <description></description>
+      <guid>http://localhost:1313/guide/rete/vpn/</guid>
+      <description>Tutto quello che devi sapere per usare la VPN di UNIMORE</description>
       
     </item>
     
     <item>
-      <title>Blowfish Lite</title>
-      <link>http://localhost:1313/examples/blowfish-lite/_index.ja/</link>
-      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <title>La rete wifi UNIMORE/EDUROAM: come sfruttarla al massimo</title>
+      <link>http://localhost:1313/guide/rete/20210831-wifi-unimore/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/examples/blowfish-lite/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite</title>
-      <link>http://localhost:1313/examples/blowfish-lite/_index.zh-cn/</link>
-      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-lite/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist</title>
-      <link>http://localhost:1313/examples/blowfish-artist/_index.ja/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-artist/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist</title>
-      <link>http://localhost:1313/examples/blowfish-artist/_index.zh-cn/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-artist/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey</title>
-      <link>http://localhost:1313/examples/blowfish-lowkey/_index.ja/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-lowkey/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey</title>
-      <link>http://localhost:1313/examples/blowfish-lowkey/_index.zh-cn/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-lowkey/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite - Repo</title>
-      <link>http://localhost:1313/examples/repo-blowfish-lite/_index.zh-cn/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-lite/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite - レポジトリ</title>
-      <link>http://localhost:1313/examples/repo-blowfish-lite/_index.ja/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-lite/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - Repo</title>
-      <link>http://localhost:1313/examples/repo-blowfish-artist/_index.zh-cn/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-artist/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - レポジトリ</title>
-      <link>http://localhost:1313/examples/repo-blowfish-artist/_index.ja/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-artist/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - Repo</title>
-      <link>http://localhost:1313/examples/repo-blowfish-lowkey/_index.zh-cn/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-lowkey/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - レポジトリ</title>
-      <link>http://localhost:1313/examples/repo-blowfish-lowkey/_index.ja/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-lowkey/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template</title>
-      <link>http://localhost:1313/examples/blowfish-template/_index.zh-cn/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-template/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template - GitHub Repo</title>
-      <link>http://localhost:1313/examples/blowfish-template-repo/_index.zh-cn/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-template-repo/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish テンプレート</title>
-      <link>http://localhost:1313/examples/blowfish-template/_index.ja/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-template/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish テンプレート - GitHub レポジトリ</title>
-      <link>http://localhost:1313/examples/blowfish-template-repo/_index.ja/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-template-repo/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Showcase</title>
-      <link>http://localhost:1313/examples/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/_index.zh-cn/</guid>
-      <description>See what&amp;rsquo;s possible with Blowfish. This section contains links to example templates and pages created using Blowfish to get you inspired.</description>
-      
-    </item>
-    
-    <item>
-      <title>ショーケース</title>
-      <link>http://localhost:1313/examples/_index.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/_index.ja/</guid>
-      <description>Blowfish で何が出来るか見てみる。 このセクションはテンプレートの例や</description>
+      <guid>http://localhost:1313/guide/rete/20210831-wifi-unimore/</guid>
+      <description>Tutto quello che devi sapere per sfruttare la massimo la rete wifi UNIMORE/EDUROAM presente al DSCG</description>
       
     </item>
     

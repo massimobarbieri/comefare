@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/rete/20250319_accedere-al-disco-di-rete-s/</loc>
+    <loc>http://localhost:1313/guide/rete/20250319_accedere-al-disco-di-rete-s/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -21,13 +21,49 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/guide/servizi/plotter/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/guide/servizi/fotocopiatrici/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/rete/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rete/</loc>
+    <loc>http://localhost:1313/guide/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/guide/rete/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/servizi/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/guide/servizi/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/stampa/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -39,8 +75,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/examples/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/guide/rete/20210831-wifi-unimore/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/wifi/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -56,16 +98,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/series/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/examples/_index.zh-cn/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/examples/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

@@ -21,8 +21,8 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "/img/background.svg"
-defaultFeaturedImage = "/img/featured.svg"
+#defaultBackgroundImage = "/img/background.svg"
+#defaultFeaturedImage = "/img/featured.svg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -43,8 +43,8 @@ smartTOCHideUnfocusedChildren = false
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 6
-  showMoreLink = false
-  showMoreLinkDest = "docs"
+  showMoreLink = true
+  showMoreLinkDest = "guide"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -80,7 +80,7 @@ smartTOCHideUnfocusedChildren = false
   showZenMode = true
 
 [list]
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background
   layoutBackgroundHeaderSpace = false
