@@ -11,22 +11,32 @@
     
     <item>
       <title>Accedere al disco di rete Dati DSCG (s:)</title>
-      <link>http://localhost:1313/guide/rete/20250319_accedere-al-disco-di-rete-s/</link>
+      <link>http://localhost:1313/guide/rete/accedere-al-disco-s/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/rete/20250319_accedere-al-disco-di-rete-s/</guid>
+      <guid>http://localhost:1313/guide/rete/accedere-al-disco-s/</guid>
       <description>Il disco di rete Dati DSCG (s:) è uno spazio di archiviazione condiviso collocato sui server dei servizi informatici di Ateneo. In questa guida puoi scoprire come utilizzarlo.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/rete/20250319_accedere-al-disco-di-rete-s/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/rete/accedere-al-disco-s/featured.png" />
+    </item>
+    
+    <item>
+      <title>Come usare la VPN di UNIMORE</title>
+      <link>http://localhost:1313/guide/rete/vpn/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/guide/rete/vpn/</guid>
+      <description>Tutto quello che devi sapere per usare la VPN di UNIMORE</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/rete/vpn/featured.png" />
     </item>
     
     <item>
       <title>La rete wifi UNIMORE/EDUROAM: come sfruttarla al massimo</title>
-      <link>http://localhost:1313/guide/rete/20210831-wifi-unimore/</link>
+      <link>http://localhost:1313/guide/rete/wifi/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/rete/20210831-wifi-unimore/</guid>
+      <guid>http://localhost:1313/guide/rete/wifi/</guid>
       <description>Tutto quello che devi sapere per sfruttare la massimo la rete wifi UNIMORE/EDUROAM presente al DSCG</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/rete/wifi/featured.png" />
     </item>
     
   </channel>

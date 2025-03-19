@@ -69,15 +69,15 @@ smartTOCHideUnfocusedChildren = false
   showHeadingAnchors = false
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
-  showRelatedContent = true
+  showRelatedContent = false
   relatedContentLimit = 6
   showTaxonomies = true 
-  showAuthorsBadges = true 
+  showAuthorsBadges = true
   showWordCount = false
   #sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
-  showZenMode = true
+  showZenMode = false
 
 [list]
   showHero = false

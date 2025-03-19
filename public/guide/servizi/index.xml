@@ -10,6 +10,16 @@
     <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/guide/servizi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Come ottenere le credenziali UNIMORE</title>
+      <link>http://localhost:1313/guide/servizi/ottenere-le-credenziali/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/guide/servizi/ottenere-le-credenziali/</guid>
+      <description>Che tu stia organizzando un evento, che tu debba frequentare il DSCG per un periodo di tempo, in questa guida puoi trovare come ottenere le credenziali UNIMORE</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/ottenere-le-credenziali/featured.png" />
+    </item>
+    
+    <item>
       <title>Come richiedere una stampa sul plotter</title>
       <link>http://localhost:1313/guide/servizi/plotter/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
@@ -27,6 +37,16 @@
       <guid>http://localhost:1313/guide/servizi/fotocopiatrici/</guid>
       <description>Tutto quello che devi sapere per poter utilizzare le fotocopiatrici dipartimentali</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/fotocopiatrici/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Usare l&#39;aula informatica virtualizzata</title>
+      <link>http://localhost:1313/guide/servizi/mydesk/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/guide/servizi/mydesk/</guid>
+      <description>Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono state virtualizzate per avere una maggior flessibilità di utilizzo e per consentire agli studenti di poter accedere ai sistemi operativi anche da casa.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/mydesk/featured.jpg" />
     </item>
     
   </channel>
