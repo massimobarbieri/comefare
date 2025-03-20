@@ -9,7 +9,7 @@ title = ""
   isoCode = "it"
   rtl = false
   dateFormat = "2 January 2006"
-  #logo = "/img/unimore.png"
+  logo = "img/unimore.png"
   description = "Un potente, leggero tema per Hugo."
 
 [params.author]

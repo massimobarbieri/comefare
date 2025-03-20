@@ -1,6 +1,7 @@
 ---
 title: "Servizi"
-description: "Guide e procedure relative ai servizi offerti dal gruppo informatico del DSCG"
+summary: "Uso delle stampanti, attivazione degli account, calendari di prenotazione, auto ecc."
+showSummary: true
 
 cascade:
   showDate: false

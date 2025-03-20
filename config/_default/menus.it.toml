@@ -26,6 +26,11 @@
   pageRef = "guide/servizi"
   weight = 15
 
+[[main]]
+  name = "Modulistica"
+  pageRef = "guide/modulistica"
+  weight = 20
+
 #[[main]]
 #  name = "Esempi"
 #  weight = 20

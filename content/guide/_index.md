@@ -1,5 +1,5 @@
 ---
-title: "Rete"
+title: "Tutte le guide"
 description: "Guide relative alla procedure di rete del DSCG"
 
 cascade:
@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Guide relative alle procedure di rete del DSCG
+Tutte le guide del DSCG
 {{< /lead >}}
 
 
