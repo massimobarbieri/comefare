@@ -7,9 +7,9 @@ description: "Il disco di rete Dati DSCG (s:) è uno spazio di archiviazione con
 tags: ["stampa", "servizi"]
 date: 2025-03-19
 draft: false
-#showauthor: false
+#showauthor: true
 #authors:
-#  - max
+#    - max
 ---
 ![Plotter](featured.png)
 

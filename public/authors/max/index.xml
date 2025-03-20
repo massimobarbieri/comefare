@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max on </title>
+    <link>http://localhost:1313/authors/max/</link>
+    <description>Recent content in Max on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>© 2025 comefare.dscg.unimore.it</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/max/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Come richiedere una stampa sul plotter</title>
+      <link>http://localhost:1313/guide/servizi/plotter/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/guide/servizi/plotter/</guid>
+      <description>Tutto quello che devi sapere per poter richiedere una stampa sul plotter dipartimentale: come preparare il file, come richiedere la stampa, costi</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/plotter/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
