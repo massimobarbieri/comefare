@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 comefare.dscg.unimore.it</copyright>
-    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Auto DSCG: prenotazioni e libretto di viaggio</title>
+      <link>http://localhost:1313/guide/servizi/auto/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/guide/servizi/auto/</guid>
+      <description>Come prenotare un auto del DSCG e come compilare il libretto di viaggio</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/auto/featured.jpg" />
+    </item>
     
     <item>
       <title>Accedere al disco di rete Dati DSCG (s:)</title>
