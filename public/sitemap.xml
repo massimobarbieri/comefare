@@ -39,6 +39,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/identity/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/rete/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>

@@ -2,9 +2,9 @@
 title: "Come ottenere le credenziali UNIMORE"
 summary: "Che tu stia organizzando un evento, che tu debba frequentare il DSCG per un periodo di tempo, in questa guida puoi trovare come ottenere le credenziali UNIMORE"
 showSummary: true
-description: "Il disco di rete Dati DSCG (s:) è uno spazio di archiviazione condiviso collocato sui server dei servizi informatici di Ateneo. In questa guida puoi scoprire come utilizzarlo."
+description: "Come ottenere le credenziali UNIMORE"
 #categories: ["Rete"]
-tags: ["stampa", "servizi"]
+tags: ["identity", "servizi"]
 date: 2025-03-19
 draft: false
 #showauthor: false
@@ -69,7 +69,7 @@ Nell’email di richiesta di credenziali per un utente esterno si prega di indic
 - Tutor di tirocinio
 - VISITING PROFESSOR
 
-Una volta forniti questi dati i referenti informatici risponderanno con un link che potrà essere usato in due modi:
+Una volta forniti questi dati i referenti informatici risponderanno con un link che potrà essere usato in due modi a seconda che l'utente che deve ottenere le credenziali sia provvisto di SPID oppure no:
 
 1. **L’utente ha lo SPID.** Il docente può inoltrare il link all’utente che necessita delle credenziali. Qualora sia provvisto di SPID, non dovrà fare altro che fare il login con lo SPID e autorizzare UNIMORE a gestire i suoi dati.
 
@@ -82,7 +82,7 @@ Una volta creata l’anagrafica, i referenti informatici assoceranno all’utent
 
 ### CASO 1: I partecipanti devono usare solo la wifi
 
-Se i partecipanti all’evento che organizzi hanno solo la necessità di connettersi alla rete wifi è possibile che tu non debba fare nulla. La rete WiFi UNIMORE fa parte della rete federata EDUROAM alla quale utenti provenienti da altri enti federati posso connettersi con le loro credenziali personali dell’ente di provenienza.
+Se i partecipanti all’evento che organizzi hanno solo la necessità di connettersi alla rete wifi, è possibile che tu non debba fare nulla. La rete WiFi UNIMORE fa parte della rete federata EDUROAM alla quale utenti provenienti da altri enti federati posso connettersi con le loro credenziali personali dell’ente di provenienza.
 
 Se organizzi un evento e prevedi che un certo numero di partecipanti abbia necessità di utilizzare la rete wifi e non sia in possesso di credenziali della rete federata EDUROAM, contatta massimo.barbieri@unimore.it o simona.piaggi@unimore.it qualche giorno prima indicando:
 
@@ -91,7 +91,7 @@ Se organizzi un evento e prevedi che un certo numero di partecipanti abbia neces
 - Responsabile dell’evento
 - Data di inizio e fine dell’evento
 
-Sulla base dei dati inviati verrà creato il tuo evento su https://selfaccess.unimore.it ti verranno fornite le istruzioni che potrai fornire a tutti i partecipanti all’evento per crearsi in autonomia le proprio credenziali di accesso valide per la sola durata dell’evento.
+Sulla base dei dati inviati verrà creato il tuo evento su https://selfaccess.unimore.it ti verranno fornite le istruzioni che potrai dare a tutti i partecipanti all’evento per crearsi in autonomia le proprio credenziali di accesso valide per la sola durata dell’evento.
 
 ### CASO 2: I partecipanti devono usare PC UNIMORE
 
