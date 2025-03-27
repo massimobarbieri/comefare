@@ -81,16 +81,19 @@ Una volta creata l’anagrafica, i referenti informatici assoceranno all’utent
 
 ### CASO 1: I partecipanti devono usare solo la wifi
 
-Se i partecipanti all’evento che organizzi hanno solo la necessità di connettersi alla rete wifi, è possibile che tu non debba fare nulla. La rete WiFi UNIMORE fa parte della rete federata EDUROAM alla quale utenti provenienti da altri enti federati posso connettersi con le loro credenziali personali dell’ente di provenienza.
+Se i partecipanti all’evento che organizzi hanno solo la necessità di connettersi alla rete WiFi, potresti non dover fare nulla. La rete WiFi UNIMORE fa parte della rete federata [EDUROAM](https://eduroam.unimore.it/), alla quale gli utenti provenienti da altri enti federati possono accedere utilizzando le proprie credenziali personali.
 
-Se organizzi un evento e prevedi che un certo numero di partecipanti abbia necessità di utilizzare la rete wifi e non sia in possesso di credenziali della rete federata EDUROAM, contatta massimo.barbieri@unimore.it o simona.piaggi@unimore.it qualche giorno prima indicando:
+Se, invece, organizzi un evento e prevedi che alcuni partecipanti abbiano bisogno di utilizzare la rete WiFi ma non dispongano di credenziali EDUROAM, contatta **massimo.barbieri@unimore.it** o **simona.piaggi@unimore.it** con qualche giorno di anticipo, indicando:
 
-- Numero degli account necessari (meglio eccedere un po’)
-- Titolo dell’evento
-- Responsabile dell’evento
-- Data di inizio e fine dell’evento
+- Il numero di account necessari (è consigliabile richiederne qualcuno in più)
+- Il titolo dell’evento
+- Il responsabile dell’evento
+- La data di inizio e fine dell’evento
 
-Sulla base dei dati inviati verrà creato il tuo evento su https://selfaccess.unimore.it ti verranno fornite le istruzioni che potrai dare a tutti i partecipanti all’evento per crearsi in autonomia le proprio credenziali di accesso valide per la sola durata dell’evento.
+Sulla base di queste informazioni, il tuo evento verrà creato su [selfaccess.unimore.it](https://selfaccess.unimore.it).
+Ti verranno fornite istruzioni dettagliate, che potrai condividere con i partecipanti per permettere loro di creare autonomamente le proprie credenziali di accesso, valide per tutta la durata dell’evento.
+
+
 
 ### CASO 2: I partecipanti devono usare PC UNIMORE
 
@@ -102,5 +105,9 @@ Se i partecipanti all’evento che stai organizzando devono utilizzare i PC dell
 - Data di inizio e fine dell’evento
 - Indica se i partecipanti dovranno usare le macchine virtuali dell’aula informatica
 
-Nei giorni successivi alla richiesta verranno generate le credenziali che ti verranno consegnate in un file PDF contenente una coppia di username e password per ogni pagina e le relative istruzioni per l’attivazione. Il responsabile dell’evento dovrà stampare le credenziali ricevute, consegnandone una ad ogni partecipante, avendo cura di raccogliere, per ciascun partecipante, documento di identità e codice fiscale, segnando su un file o documento cartaceo l’identificativo dell’account consegnato. I documenti raccolti e il file con l’associazione partecipante all’evento, account consegnato, dovranno essere conservati dal responsabile dell’evento per 5 anni.
+Nei giorni successivi alla richiesta, verranno generate le credenziali, che saranno consegnate in un file PDF contenente una coppia di username e password per ogni pagina.
+
+Il responsabile dell’evento dovrà stampare le credenziali ricevute e distribuirne una a ciascun partecipante, assicurandosi di raccogliere per ognuno il documento di identità e il codice fiscale. Inoltre, dovrà annotare su un file o su un documento cartaceo l’identificativo dell’account assegnato a ciascun partecipante.
+
+I documenti raccolti e il file con l’associazione tra partecipante ed account dovranno essere conservati dal responsabile dell’evento per un periodo di cinque anni.
 
