@@ -1,8 +1,8 @@
 ---
-title: "Come usare le fotocopriatrici dipartimentali"
+title: "Come usare le fotocopiatrici dipartimentali"
 summary: "Tutto quello che devi sapere per poter utilizzare le fotocopiatrici dipartimentali"
 showSummary: true
-description: "Il disco di rete Dati DSCG (s:) è uno spazio di archiviazione condiviso collocato sui server dei servizi informatici di Ateneo. In questa guida puoi scoprire come utilizzarlo."
+description: "Tutto quello che devi sapere per poter utilizzare le fotocopiatrici dipartimentali"
 #categories: ["Rete"]
 tags: ["stampa", "servizi"]
 date: 2025-03-19
@@ -19,8 +19,8 @@ draft: false
 ### Prerequisiti
 
 1. La fotocopiatrice che intendi installare deve essere accesa.
-2. Per poter stampare devi essere connesso alla rete del dipartimento con il cavo (non sulla wifi).
-3. Devi essere in possesso di un PIN di stampa (prendi accordi con il tuo docente di riferimento che coprirà le spese di stampa e contatta gli amministratori di rete per avere un pin personale).
+2. Per poter stampare devi essere connesso alla rete del dipartimento con il cavo (sulla rete wifi non è possibile stampare).
+3. Devi essere in possesso di un PIN di stampa (se ha un ruolo non strutturato, prendi accordi con il tuo docente di riferimento che coprirà le spese di stampa e contatta gli amministratori di rete per avere un pin personale).
 
 | IP            | Modello               | Locale                 |
 | :---         | :---                  | :---                   |
@@ -30,7 +30,7 @@ draft: false
 ### Installazione in ambiente Windows
 
 1. Scarica il driver dal sito Canon e scegli il formato UFR
-2. Estrai il file facendo doppio click sull’eseguibile. Verrà creata una cartella con al suo interno i file di installazione del driver. Apri la cartella e avvia il setup.
+2. Estrai il file facendo doppio click sull’eseguibile. Verrà creata una cartella con al suo interno i file di installazione del driver. Apri la cartella e avvia il *setup*.
 3. Accetta i termini del contratto di licenza premendo “Sì”.
 4. Scegli l’installazione standard e premi Avanti.
 5. Seleziona la fotocopiatrice che desideri installare

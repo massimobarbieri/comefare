@@ -2,7 +2,7 @@
 title: "Usare l'aula informatica virtualizzata"
 summary: "Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono state virtualizzate per avere una maggior flessibilità di utilizzo e per consentire agli studenti di poter accedere ai sistemi operativi anche da casa."
 showSummary: true
-description: "Il disco di rete Dati DSCG (s:) è uno spazio di archiviazione condiviso collocato sui server dei servizi informatici di Ateneo. In questa guida puoi scoprire come utilizzarlo."
+description: "Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono state virtualizzate per avere una maggior flessibilità di utilizzo e per consentire agli studenti di poter accedere ai sistemi operativi anche da casa."
 #categories: ["Rete"]
 tags: ["vm", "servizi"]
 date: 2025-03-19
@@ -14,14 +14,14 @@ draft: false
 ![VM](featured.jpg)
 Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono state virtualizzate per avere una maggior flessibilità di utilizzo e per consentire agli studenti di poter accedere ai sistemi operativi anche da casa.
 
-In aula troverai dei Terminal Client (TC), si tratta di semplici PC che hanno il compito di collegarti ai sistemi operativi virtualizzati (VM). Dopo aver effettuato il login con le tue credenziali UNIMORE, potrai scegliere quale sistema operativo virtualizzato avviare (Windows o GNU Linux). Anche da casa, con il tuo pc, potrai accedere ai medesimi sistemi.
+In aula troverai dei Terminal Client (TC), si tratta di semplici PC che hanno il compito di collegarti alle Virtual Machine (VM). Dopo aver effettuato il login con le tue credenziali UNIMORE, potrai scegliere quale sistema operativo virtualizzato avviare (Windows o GNU Linux). Anche da casa, con il tuo pc, potrai accedere ai medesimi sistemi.
 
 ## Puoi vedere solo le VM del tuo dipartimento
 Questo sistema di virtualizzazione assegna le VM in base alla struttura di afferenza del tuo utente. Ad esempio, se sei uno studente di Scienze Chimiche, poiché il tuo corso di studio afferisce al Dipartimento di Scienze Chimiche e Geologiche (DSCG), vedrai le VM del DSCG.
 
-Se sei uno studente che afferisce ad un altro dipartimento, ma hai necessità di accedere alle VM del DSCG, parla con il tuo insegnante e chiedi di inoltrare una richiesta ai refernti informatici del DSCG.
+Se sei uno studente che afferisce ad un altro dipartimento, ma hai necessità di accedere alle VM del DSCG, parla con il tuo insegnante e chiedi di inoltrare una richiesta ai [referenti informatici](https://www.sia.unimore.it/site/home/referenti-informatici.html) del DSCG.
 
-Se sei un docente che afferisce ad un dipartimento diverso dal DSCG e hai necessità di accedere alle VM del DSCG scrivi ai referenti informatici del DSCG.
+Se sei un docente che afferisce ad un dipartimento diverso dal DSCG e hai necessità di accedere alle VM del DSCG scrivi ai [referenti informatici](https://www.sia.unimore.it/site/home/referenti-informatici.html) del DSCG.
 
 ## Quanti Terminal Client ci sono al DSCG?
 Nelle DSCG abbiamo 24 TC nell'aula int-3 e 16 TC nel laboratorio di calcolo P2.
@@ -35,9 +35,13 @@ Se hai molti studenti in aula pianifica l'evento per fare avviare le VM per temp
 
 Se non interviene una programmazione abbiamo a disposizione 40 VM GNU Linux e 25 VM Windows. Se interviene una programmazione le macchine Windows possono arrivare fino a 45.
 
-Queste VM possono essere usate sia da utenti remoti che in aula, pertanto, se sei un docente e hai in programma una lezione o un ciclo di lezioni con molti studenti (>15) è opportuno pianificare l'evento per fare avviare per tempo le VM Windows necessarie (per GNU Linux il problema non si pone).
+Poiché eueste VM possono essere usate sia da utenti remoti che in aula, se sei un docente e hai in programma una lezione o un ciclo di lezioni con molti studenti (>15) è opportuno pianificare l'evento per far avviare le VM Windows necessarie (per GNU Linux il problema non si pone).
 
-Se devi pianificare l'avvio delle VM scrivi a fausto.mellotti@unimore.it per programmare la lezione o il ciclo di lezioni indicando il numero di VM Windows che ti occorrono, quale aula userai, giorni e fascie orarie di utilizzo.
+Se devi pianificare l'avvio delle VM scrivi a fausto.mellotti@unimore.it per programmare la lezione o il ciclo di lezioni indicando:
+
+- il numero di VM Windows che ti occorrono
+- quale aula userai
+- giorni e fascie orarie di utilizzo
 
 ## Accedere alle VM da casa
 ![UDS](uds.png)
@@ -72,4 +76,4 @@ Questa modalità di accesso permette di collegarsi alla macchina virtuale attrav
 I dati salvati in locale sulla VM saranno persi poco dopo la chiusura della sessione.
 {{< /alert >}}
 
-Le VM non sono persistenti, ovvero, dopo pochi minuti che la sessione è stata chiusa, vengono distrutte. Per salvare i tuoi dati puoi accedere a Google Drive, con la versione desktop per Windows e con la versione web per Linux e slavare i tuoi dati sul cloud.
+Le VM non sono persistenti, ovvero, dopo pochi minuti che la sessione è stata chiusa, vengono distrutte. Per salvare i tuoi dati puoi accedere a Google Drive, con la versione desktop per Windows e con la versione web per Linux e salvare i tuoi dati sul cloud.
