@@ -18,6 +18,9 @@ title = ""
   headline = "Guide e procedure informatiche interne del DSCG"
   bio = "Un potente, leggero tema per Hugo."
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { facebook = "https://www.facebook.com/unimore.it" },
+    { x-twitter = "https://twitter.com/unimore_univ?lang=it" },
+    { instagram = "https://www.instagram.com/unimore_official" },
+    { linkedin = "https://it.linkedin.com/edu/universit%C3%A0-degli-studi-di-modena-e-reggio-emilia-13877" },
+    { youtube = "https://www.youtube.com/user/tvunimore" },
   ]
