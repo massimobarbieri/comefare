@@ -15,11 +15,11 @@ Il disco di rete Dati DSCG (s:) è uno spazio di archiviazione condiviso colloca
 
 ## PC Windows con autenticazione centralizzata
 
-Nei PC Windows con autenticazione centralizzata (joinati al dominio unimore.it) il disco Dati DSCG (s:) è automaticamente visibile in “Questo PC”.
+Nei PC Windows con autenticazione centralizzata (joinati al dominio unimore.it) il disco Dati DSCG (s:) è automaticamente visibile in *Questo PC*.
 
 ![Immagine principale](featured.png)
 
-Qualora non fosse visibile è possibile forzare il collegamento aprendo il Prompt dei comandi e digitando il comando
+Qualora non fosse visibile è possibile forzare il collegamento aprendo il *Prompt dei comandi* e digitando il comando
 
 ```
 gpupdate /force
@@ -30,8 +30,8 @@ gpupdate /force
 Sui PC Windows privi di autenticazione centralizzata (esempio PC personali non in dotazione unimore) o nelle macchine Windows che si trovano fuori dalla rete del DSCG (ad esempio i pc delle aule) è necessario montare il disco manualmente seguendo la procedura seguente.
 
 - Se il PC si trova fuori dalla rete UNIMORE, attiva la VPN
-- Clicca con il tasto destro del mouse su “Questo PC” e scegli “Connetti unità di rete”
-- Nel campo relativo alla cartella digita il percorso di rete \\fs01.unimore.it\strutture\dscg Scegli una lettera dell’Unità da aggiungere a Questo PC (per coerenza puoi scegliere S:) e lascia la spunta su “Riconnetti all’accesso”
+- Clicca con il tasto destro del mouse su *Questo PC* e scegli *Connetti unità di rete*
+- Nel campo relativo alla cartella digita il percorso di rete *\\fs01.unimore.it\strutture\dscg* Scegli una lettera dell’Unità da aggiungere a *Questo PC* (per coerenza puoi scegliere S:) e lascia la spunta su *Riconnetti all’accesso*
 - Quando ti verranno richieste le credenziali, scrivi la username in questo modo: UNIMOREAD\mia-username seguita dalla password di posta
 
 ![Connetti unità di rete](connetti-unita.png)
@@ -48,4 +48,4 @@ Dopo aver premuto invio digitare la password unimore
 
 ## PC GNU Linux o Mac OS
 
-Su PC GNU Linux o Mac OS occorre connettersi alla condivisione pubblicata su smb://fs01.unimore.it/strutture/dscg Al momento della richiesta di credenziali la username è UNIMOREAD\mia-username seguita dalla password di posta. Qualora venisse richiesto username, dominio e password, nel campo dominio si può indicare UNIMOREAD e nel campo username la propria username senza prefisso.
+Su PC GNU Linux o Mac OS occorre connettersi alla condivisione pubblicata su *smb://fs01.unimore.it/strutture/dscg* Al momento della richiesta di credenziali la username è UNIMOREAD\mia-username seguita dalla password di posta. Qualora venisse richiesto username, dominio e password, nel campo dominio si può indicare UNIMOREAD e nel campo username la propria username senza prefisso.
