@@ -71,14 +71,13 @@ Nell’email di richiesta di credenziali per un utente esterno si prega di indic
 
 Una volta forniti questi dati i referenti informatici risponderanno con un link che potrà essere usato in due modi a seconda che l'utente che deve ottenere le credenziali sia provvisto di SPID oppure no:
 
-1. **L’utente ha lo SPID.** Il docente può inoltrare il link all’utente che necessita delle credenziali. Qualora sia provvisto di SPID, non dovrà fare altro che fare il login con lo SPID e autorizzare UNIMORE a gestire i suoi dati.
+1. **L’utente ha lo SPID.** Il docente può inoltrare il link all’utente che necessita delle credenziali. L'utente dovrà fare il login con lo SPID e autorizzare UNIMORE a gestire i suoi dati.
 
 2. **L’utente NON ha lo SPID.** Il docente può inoltrare il link all’utente il quale potrà caricare manualmente i propri dati e creare l’anagrafica su UNIMORE. Questo vale anche per gli utenti stranieri non provvisti di codice fiscale: il sistema di pre-caricamento provvederà a generare un codice fiscale sulla base dei dati inseriti
 
 Una volta creata l’anagrafica, i referenti informatici assoceranno all’utente un incarico che permetterà di attivare le credenziali UNIMORE. L’utente appena registrato riceverà una email automatica con le istruzioni da seguire per recuperare la password di accesso.
 
 ## Credenziali per eventi
-
 
 ### CASO 1: I partecipanti devono usare solo la wifi
 
