@@ -2,7 +2,7 @@
 title: "Come richiedere una stampa sul plotter"
 summary: "Tutto quello che devi sapere per poter richiedere una stampa sul plotter dipartimentale: come preparare il file, come richiedere la stampa, costi"
 showSummary: true
-description: "Il disco di rete Dati DSCG (s:) è uno spazio di archiviazione condiviso collocato sui server dei servizi informatici di Ateneo. In questa guida puoi scoprire come utilizzarlo."
+description: "Tutto quello che devi sapere per poter richiedere una stampa sul plotter dipartimentale: come preparare il file, come richiedere la stampa, costi"
 #categories: ["Rete"]
 tags: ["stampa", "servizi"]
 date: 2025-03-19
@@ -13,9 +13,9 @@ draft: false
 ---
 ![Plotter](featured.png)
 
-Il Dipartimento di Scienze Chimiche e Geologiche dispone di un plotter HP Design Jet T795 che può essere utilizzato per effettuare stampe di documenti di grande formato quali poster, locandine o elaborati cartografici. Per effettuare una stampa è necessario **esportare il documento da stampare in formato PDF nelle dimensioni di stampa desiderate** e compilare il [modulo di richiesta stampe su plotter](https://docs.google.com/a/unimore.it/forms/d/e/1FAIpQLSf2byZOe-JIdIUbpH4XoZufbc1gaKKgMEbYhSRnw3a7EAh2eQ/viewform?usp=sf_link).
+Il Dipartimento di Scienze Chimiche e Geologiche dispone di un plotter *HP Design Jet T795* che può essere utilizzato per effettuare stampe di documenti di grande formato quali poster, locandine o elaborati cartografici. Per effettuare una stampa è necessario **esportare il documento da stampare in formato PDF nelle dimensioni di stampa desiderate** e compilare il [modulo di richiesta stampe su plotter](https://docs.google.com/a/unimore.it/forms/d/e/1FAIpQLSf2byZOe-JIdIUbpH4XoZufbc1gaKKgMEbYhSRnw3a7EAh2eQ/viewform?usp=sf_link).
 
-Il file di stampa deve essere inviato attraverso il modulo riportato sopra almeno 2 giorni lavorativi prima del giorno di effettivo utilizzo della stampa (esclusi fine settimana o festività).
+Il file di stampa deve essere inviato attraverso il modulo riportato sopra almeno **2 giorni lavorativi prima** del giorno di effettivo utilizzo della stampa (esclusi fine settimana o festività).
 
 ## Note importanti sul tipo di carta
 
