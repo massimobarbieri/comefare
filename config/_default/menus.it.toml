@@ -33,7 +33,7 @@
 
 [[main]]
   name = "Sicurezza ITC"
-  pageRef = "https://www.sicurezzaict.unimore.it/"
+  url = "https://www.sicurezzaict.unimore.it/"
   weight = 30
 
 #[[main]]
