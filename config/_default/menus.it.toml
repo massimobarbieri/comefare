@@ -36,6 +36,11 @@
   url = "https://www.sicurezzaict.unimore.it/"
   weight = 30
 
+[[main]]
+  name = "Collaboration"
+  url ="https://unimore365.sharepoint.com/sites/collaboration"
+  weight = 40
+
 #[[main]]
 #  name = "Esempi"
 #  weight = 20
