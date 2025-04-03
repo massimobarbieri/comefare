@@ -12,9 +12,13 @@ draft: false
 #  - max
 ---
 
-## Credenziali per un utente
+## Credenziali per un collaboratore
 
-Le credenziali UNIMORE per il personale strutturato, per ricercatori a tempo determinato, per assegnisti e per dottorandi sono rilasciate direttamente dagli uffici competenti dell’amministrazione centrale. Per tutti gli altri casi le credenziali possono essere richieste via email, dal docente di riferimento, ai referenti identity del Dipartimento di Scienze Chimiche e Geologiche: Massimo Barbieri e Simona Piaggi.
+{{< alert >}}
+Le credenziali UNIMORE per il personale strutturato, per ricercatori a tempo determinato, per assegnisti, per studenti erasmus e per dottorandi sono rilasciate direttamente dagli uffici competenti dell’amministrazione centrale.
+{{< /alert >}}
+
+Per tutti gli altri casi le credenziali possono essere richieste via email, dal docente di riferimento, ai referenti identity del Dipartimento di Scienze Chimiche e Geologiche: Massimo Barbieri e Simona Piaggi.
 
 Nell’email di richiesta di credenziali per un utente esterno si prega di indicare la **data di inizio e fine dell’incarico** che coinciderà con la data di attivazione dell’account e il **tipo di incarico** che lega il collaboratore ad UNIMORE scegliendolo dal seguente elenco:
 
@@ -79,7 +83,7 @@ Una volta creata l’anagrafica, i referenti informatici assoceranno all’utent
 
 ## Credenziali per eventi
 
-### CASO 1: I partecipanti devono usare solo la wifi
+### CASO 1: I partecipanti devono usare solo la wifi {{< icon "wifi" >}}
 
 Se i partecipanti all’evento che organizzi hanno solo la necessità di connettersi alla rete WiFi, potresti non dover fare nulla. La rete WiFi UNIMORE fa parte della rete federata [EDUROAM](https://eduroam.unimore.it/), alla quale gli utenti provenienti da altri enti federati possono accedere utilizzando le proprie credenziali personali.
 
@@ -95,7 +99,7 @@ Ti verranno fornite istruzioni dettagliate, che potrai condividere con i parteci
 
 
 
-### CASO 2: I partecipanti devono usare PC UNIMORE
+### CASO 2: I partecipanti devono usare PC UNIMORE {{< icon "pc" >}}
 
 Se i partecipanti all’evento che stai organizzando devono utilizzare i PC della rete UNIMORE, come ad esempi i PC dell’aula informatica, contatta massimo.barbieri@unimore.it o simona.piaggi@unimore.it qualche settimana prima dell’evento indicando:
 

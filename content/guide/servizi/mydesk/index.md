@@ -37,7 +37,7 @@ Se non interviene una programmazione abbiamo a disposizione 40 VM GNU Linux e 25
 
 Poiché eueste VM possono essere usate sia da utenti remoti che in aula, se sei un docente e hai in programma una lezione o un ciclo di lezioni con molti studenti (>15) è opportuno pianificare l'evento per far avviare le VM Windows necessarie (per GNU Linux il problema non si pone).
 
-Se devi pianificare l'avvio delle VM scrivi a fausto.mellotti@unimore.it per programmare la lezione o il ciclo di lezioni indicando:
+Se devi pianificare l'avvio delle VM scrivi a fausto.melotti@unimore.it per programmare la lezione o il ciclo di lezioni indicando:
 
 - il numero di VM Windows che ti occorrono
 - quale aula userai
