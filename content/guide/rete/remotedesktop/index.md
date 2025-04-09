@@ -1,5 +1,5 @@
 ---
-title: "Accedere in desktop remoto al pc dell'ufficio"
+title: "Accedere al pc dell'ufficio con remote desktop"
 summary: "Tutto quello che devi sapere per accedere in Remote Desktop al pc del tuo ufficio"
 showSummary: true
 description: "Guida per accedere in remote desktop al pc dell'ufficio"
