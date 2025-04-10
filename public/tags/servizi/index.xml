@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Installazione di software distribuito</title>
+      <link>http://localhost:1313/guide/servizi/software-autorizzato/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/guide/servizi/software-autorizzato/</guid>
+      <description>Attraverso il dominio UNIMOREAD vengono messi a disposizione alcuni software che possono essere installati senza i privilegi si amministratore. Scopri come installarli.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/software-autorizzato/featured.png" />
+    </item>
+    
+    <item>
       <title>Auto DSCG: prenotazioni e libretto di viaggio</title>
       <link>http://localhost:1313/guide/servizi/auto/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
