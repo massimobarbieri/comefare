@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 comefare.dscg.unimore.it</copyright>
-    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Acquisto di materiale informatico</title>
+      <link>http://localhost:1313/guide/servizi/acquisti/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/guide/servizi/acquisti/</guid>
+      <description>Devi acquistare del materiale informatico con fondi di ricerca e non sai come fare? Leggi questa guida.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/acquisti/featured.jpg" />
+    </item>
     
     <item>
       <title>Accedere al pc dell&#39;ufficio con remote desktop</title>
