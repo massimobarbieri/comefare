@@ -129,7 +129,7 @@
     "keywords": ["rete","archiviazione"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "353"
+    "wordCount": "355"
   }]
   </script>
 
@@ -822,7 +822,11 @@
 <ul>
 <li>Se il PC si trova fuori dalla rete UNIMORE, attiva la VPN</li>
 <li>Clicca con il tasto destro del mouse su <em>Questo PC</em> e scegli <em>Connetti unità di rete</em></li>
-<li>Nel campo relativo alla cartella digita il percorso di rete <em>\fs01.unimore.it\strutture\dscg</em> Scegli una lettera dell’Unità da aggiungere a <em>Questo PC</em> (per coerenza puoi scegliere S:) e lascia la spunta su <em>Riconnetti all’accesso</em></li>
+<li>Nel campo relativo alla cartella digita il seguente percorso di rete</li>
+</ul>
+<pre tabindex="0"><code>\\fs01.unimore.it\strutture\dscg
+</code></pre><ul>
+<li>Scegli una lettera dell’Unità da aggiungere a <em>Questo PC</em> (per coerenza puoi scegliere S:) e lascia la spunta su <em>Riconnetti all’accesso</em></li>
 <li>Quando ti verranno richieste le credenziali, scrivi la username in questo modo: UNIMOREAD\mia-username seguita dalla password di posta</li>
 </ul>
 <p>
@@ -842,9 +846,9 @@
     </figure>
 </p>
 <p>In caso di problemi di connessione o autenticazione che potrebbero verificarsi fuori dalla rete unimore è possibile montare il disco utilizzando il terminale.</p>
-<p>Aprire il Prompt dei comandi e digitare il seguente comando sostituendo mia-username con la propria username personale</p>
+<p>Apri il Prompt dei comandi e digita il seguente comando sostituendo <em>mia-username</em> con la propria username personale</p>
 <pre tabindex="0"><code>net use S: \\fs01.unimore.it\strutture\dscg /user:UNIMOREAD\mia-username
-</code></pre><p>Dopo aver premuto invio digitare la password unimore</p>
+</code></pre><p>Dopo aver premuto invio digitare la password di unimore</p>
 
 
 <h2 class="relative group">PC GNU Linux o Mac OS 

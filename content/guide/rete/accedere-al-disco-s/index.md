@@ -31,20 +31,24 @@ Sui PC Windows privi di autenticazione centralizzata (esempio PC personali non i
 
 - Se il PC si trova fuori dalla rete UNIMORE, attiva la VPN
 - Clicca con il tasto destro del mouse su *Questo PC* e scegli *Connetti unità di rete*
-- Nel campo relativo alla cartella digita il percorso di rete *\\fs01.unimore.it\strutture\dscg* Scegli una lettera dell’Unità da aggiungere a *Questo PC* (per coerenza puoi scegliere S:) e lascia la spunta su *Riconnetti all’accesso*
+- Nel campo relativo alla cartella digita il seguente percorso di rete 
+```
+\\fs01.unimore.it\strutture\dscg
+```
+- Scegli una lettera dell’Unità da aggiungere a *Questo PC* (per coerenza puoi scegliere S:) e lascia la spunta su *Riconnetti all’accesso*
 - Quando ti verranno richieste le credenziali, scrivi la username in questo modo: UNIMOREAD\mia-username seguita dalla password di posta
 
 ![Connetti unità di rete](connetti-unita.png)
 
 In caso di problemi di connessione o autenticazione che potrebbero verificarsi fuori dalla rete unimore è possibile montare il disco utilizzando il terminale.
 
-Aprire il Prompt dei comandi e digitare il seguente comando sostituendo mia-username con la propria username personale
+Apri il Prompt dei comandi e digita il seguente comando sostituendo *mia-username* con la propria username personale
 
 ```
 net use S: \\fs01.unimore.it\strutture\dscg /user:UNIMOREAD\mia-username
 ```
 
-Dopo aver premuto invio digitare la password unimore
+Dopo aver premuto invio digitare la password di unimore
 
 ## PC GNU Linux o Mac OS
 

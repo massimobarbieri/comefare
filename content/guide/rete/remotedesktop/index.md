@@ -11,16 +11,22 @@ draft: false
 #authors:
 #  - max
 ---
+Per accedere al PC dell’ufficio con Remote Desktop, assicurati che il servizio Remote Desktop sia attivoe il tuo utente sia autorizzato e inserito nel gruppo abilitato all’accesso remoto.
 
-Per accedere con lo strumento Remote Desktop al PC dell'ufficio è necessario che il servizio Remote Desktop sia attivato e il tuo utente sia inserito nel gruppo delle persone abilitate ad accedere a questo servizio. Contatta gli amministratori di rete per attivare la il tuo utente.
+Per verificare o abilitare questi requisiti, contatta gli amministratori di rete.
 
-Inoltre la sospensione del PC deve essere disattivata.
+{{< alert >}}
+**Importante**: il PC dell’ufficio non deve andare in sospensione, altrimenti non sarà accessibile da remoto.
+{{< /alert >}}
 
-1. Controlla il nome o l'indirizzo ip del PC al quale ti vuoi collegare. Il nome del pc è scritto su una etichetta attaccata al PC oppure puoi ottenerlo cliccando con il tasto destro su *Questo PC* e scegliendo *Proprietà*. Se il nome del PC è ad esempio *mio-pc* l'indirizzo completo del tuo pc è *mio-pc.dscg.unimore.it*
+Passaggi per la connessione:
 
-2. Quando sei a casa attiva la [VPN di UNIMORE](/guide/rete/vpn/)
+1. Verifica il nome o l’indirizzo IP del tuo PC. Il nome del PC è solitamente indicato su un’etichetta fisica attaccata al computer. In alternativa, clicca con il tasto destro su *Questo PC*, seleziona *Proprietà* e individua il nome del dispositivo. Se, ad esempio, il nome è *mio-pc*, l’indirizzo completo sarà: *mio-pc.dscg.unimore.it*
 
-3. Utilizza un client di Remote Desktop (ad esempio Connessione Desktop remoto) inserendo l'indirizzo completo del tuo pc come indicato nel punto 1.
+2. Attiva la VPN di UNIMORE quando sei a casa.
+
+3. Apri un client Remote Desktop (ad esempio, Connessione Desktop remoto) e inserisci l’indirizzo completo del PC, come indicato al punto 1.
+
 
 <small>Featured image di questa pagina: <a href="https://commons.wikimedia.org/wiki/File:Org.remmina.Remmina.svg">Remmina remote desktop client logo</a> Remmina App authors, Antenore Gatta Creative Commons Attribution-Share Alike 4.0</small>
 
