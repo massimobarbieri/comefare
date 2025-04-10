@@ -13,15 +13,34 @@ draft: true
 ---
 UNIMORE mette a disposizione di tutti i docenti una firma elettronica personale gestita con il servizio di firma remota ArubaSign offerto dal provider Aruba. La firma elettronica è necessaria per firmare i verbagli degli esami su esse3 e può essere usata per firmare altri documenti digitali.
 
+## Installazione
 
-## Installare il software ArubaSign
+### Installare il software ArubaSign
 
-Puoi installare il sofware ArubaSign sul tuo PC senza disporre dei privilegi di amministratore del PC. Per farlo puoi seguire la guida relativa al [software distribuito](/guide/servizi/software-autorizzato/) oppure puoi procedere come descritto di seguito:
+Puoi installare il sofware ArubaSign sul tuo PC senza disporre dei privilegi di amministratore del PC.
 
 1. Scarica l'ultima versione di ArubaSign compatibile con il tuo PC: (Versioni per: [Windows 64bit](https://updatesfirma.aruba.it/downloads/ArubaSign-latest(standard).msi), [Apple](https://updatesfirma.aruba.it/downloads/ArubaSign-latest-OSX.dmg))
 2. Fai doppio clic sul file scaricato e procedi all'installazione
 
 
-## Utilizzare la versione online di ArubaSign
+### Utilizzare la versione online di ArubaSign
 
 Se non puoi installare il software descritto sopra, Aruba mette a disposizione una versione online del software disponibile a [questo indirizzo](https://arubasign.arubapec.it).
+
+
+# Utilizzo di ArubaSign
+
+## Firmare i documenti
+
+1. Apri il programma ArubaSign e attendi l'eventuale aggiornamento dei certificati
+2. Seleziona la scheda *Firma* e trascina il documento da firmare in formato PDF (**Attenzione**: Se possibile, si raccomanda di usare il formato PADES. Questo formato supporta solo il formato PDF come file di input).
+3. Scegli il formato *Firma PDF PADES* e attiva l'ozione *Firma Grafica* ![firma1](firma1.png)
+4. Trascina per formare un riquadro nel quale apporre la firma grafica ![firma2](firma2.png)
+
+5. Prosegui inserendo le tue credenziali e la verifica in due passaggi con il software Aruba OTP ![firma3](firma3.png)
+
+# Videoguide ufficiali
+{{< youtube ZjxPVFIvlPg >}}
+
+
+

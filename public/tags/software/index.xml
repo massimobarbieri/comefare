@@ -10,12 +10,12 @@
     <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Installazione di software distribuito</title>
+      <title>ArubaSign: tutto quello che devi sapere</title>
       <link>http://localhost:1313/guide/servizi/arubasign/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/guide/servizi/arubasign/</guid>
-      <description>Attraverso il dominio UNIMOREAD vengono messi a disposizione alcuni software che possono essere installati senza i privilegi si amministratore. Scopri come installarli.</description>
+      <description>Tutto quello che devi sapere sull&amp;rsquo;installazione e l&amp;rsquo;utilizo del programma per la firma elettronica ArubaSign.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/arubasign/featured.jpg" />
     </item>
     
