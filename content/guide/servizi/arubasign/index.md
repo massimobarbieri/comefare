@@ -15,9 +15,9 @@ UNIMORE mette a disposizione di tutti i docenti una firma elettronica personale 
 
 ## Installazione
 
-### Installare il software ArubaSign {{< icon "tools" >}}
+### Installare il software ArubaSign
 
-Puoi installare il sofware ArubaSign sul tuo PC senza disporre dei privilegi di amministratore.
+{{< icon "tools" >}} Puoi installare il sofware ArubaSign sul tuo PC senza disporre dei privilegi di amministratore.
 
 1. Scarica l'ultima versione di ArubaSign compatibile con il tuo PC:
     - [{{< icon "download" >}}Windows 64bit](https://updatesfirma.aruba.it/downloads/ArubaSign-latest(standard).msi)
