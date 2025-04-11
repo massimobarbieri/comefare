@@ -11,13 +11,13 @@ draft: false
 #authors:
 #    - max
 ---
-UNIMORE mette a disposizione di tutti i docenti una firma elettronica personale gestita con il servizio di firma remota ArubaSign offerto dal provider [Aruba](https://www.pec.it). La firma elettronica è necessaria per firmare i verbagli degli esami su esse3 e può essere usata per firmare altri documenti digitali.
+UNIMORE mette a disposizione di tutti i docenti una firma elettronica personale gestita con il servizio di firma remota ArubaSign offerto dal provider [Aruba](https://www.pec.it). Questa firma elettronica è necessaria per firmare i verbali d'esame su Esse3, ma può essere utilizzata anche per altri documenti digitali.
 
 ## Installazione
 
-### Installare il software ArubaSign
+### Installare il software ArubaSign {{< icon "tools" >}}
 
-Puoi installare il sofware ArubaSign sul tuo PC senza disporre dei privilegi di amministratore del PC.
+Puoi installare il sofware ArubaSign sul tuo PC senza disporre dei privilegi di amministratore.
 
 1. Scarica l'ultima versione di ArubaSign compatibile con il tuo PC:
     - [{{< icon "download" >}}Windows 64bit](https://updatesfirma.aruba.it/downloads/ArubaSign-latest(standard).msi)
