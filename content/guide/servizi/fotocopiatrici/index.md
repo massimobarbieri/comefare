@@ -20,7 +20,7 @@ draft: false
 
 1. La fotocopiatrice che intendi installare deve essere accesa.
 2. Per poter stampare devi essere connesso alla rete del dipartimento con il cavo (sulla rete wifi non è possibile stampare).
-3. Devi essere in possesso di un PIN di stampa (se ha un ruolo non strutturato, prendi accordi con il tuo docente di riferimento che coprirà le spese di stampa e contatta gli amministratori di rete per avere un pin personale).
+3. Devi essere in possesso di un PIN di stampa (se hai un ruolo non strutturato, prendi accordi con il tuo docente di riferimento che coprirà le spese di stampa e contatta gli amministratori di rete per avere un pin personale).
 
 | IP            | Modello               | Locale                 |
 | :---         | :---                  | :---                   |
