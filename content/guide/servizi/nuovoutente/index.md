@@ -11,17 +11,17 @@ draft: true
 #authors:
 #    - max
 ---
-Se hai da poco iniziato a lavorare presso il DSCG, in questa pagina puoi trovare tutto quello che nevi sapere per accedere all'edificio, per ottenere le credenziali e molto altro.
+Se hai iniziato a lavorare presso il DSCG, in questa pagina puoi trovare tutto quello che devi sapere per accedere all'edificio, per ottenere le credenziali e molto altro.
 
 ## Ottenere le credenziali
-Se sei uno studente erasmus, un assegnista, un ricercatore o un professore, le credenziali ti verranno fornite dagli uffici dell'amministrazione centrale. Alla pagina seguente puoi trovare una [guida completa per ottenere le credenziali](/guide/servizi/ottenere-le-credenziali/)
+Se sei uno studente erasmus, un assegnista, un ricercatore o un professore, le credenziali ti verranno fornite dagli uffici dell'amministrazione centrale. Per tutti gli altri casi, alla pagina seguente puoi trovare una [guida completa per ottenere le credenziali](/guide/servizi/ottenere-le-credenziali/)
 
 
 ## Accesso all'edificio
 
-Per poter accedere ai parcheggi o all'edificio fuori dagli orari di apertura, è necessario essere in possesso di un badge UNIMORE che puoi richiedere solo dopo aver ottenuto l'account unimore. Per poter richiedere il badge scrivi agli amministratori di sistema della struttura: massimo.barbieri@unimore.it o simona.piaggi@unimore.it.
+Per poter accedere ai parcheggi o all'edificio dalle porte situate a piano terra, è necessario essere in possesso di un badge UNIMORE che puoi richiedere solo dopo aver ottenuto l'account unimore. Per poter richiedere il badge scrivi agli amministratori di sistema: massimo.barbieri@unimore.it o simona.piaggi@unimore.it.
 
-L'accesso all'edificio o ai parcheggi avverrà in automatico sulla base del tuo incarico seguendo le regole riportare su [wiki.unimore.it](https://wiki.unimore.it/index.php/Amministrazione_ahab#I_gruppi_per_MO51).
+L'accesso all'edificio o ai parcheggi avverrà in automatico, sulla base del tuo incarico, seguendo le regole riportare su [wiki.unimore.it](https://wiki.unimore.it/index.php/Amministrazione_ahab#I_gruppi_per_MO51).
 
 
 ## Assegnazione di un telefono
