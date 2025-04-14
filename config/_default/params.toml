@@ -51,17 +51,17 @@ smartTOCHideUnfocusedChildren = false
 
 [article]
   showDate = true
-  showViews = false
+  showViews = true
   showLikes = false
-  showDateOnlyInArticle = false
-  showDateUpdated = false
+  showDateOnlyInArticle = true
+  showDateUpdated = true
   showAuthor = false
   # showAuthorBottom = false
   showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background
   showBreadcrumbs = false
-  showDraftLabel = false
+  showDraftLabel = true
   showEdit = false
   #editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
   editAppendPath = false
