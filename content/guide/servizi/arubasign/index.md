@@ -42,8 +42,8 @@ Se non puoi installare il software descritto sopra, Aruba mette a disposizione u
 
 5. Prosegui inserendo le tue credenziali e la verifica in due passaggi con il software Aruba OTP ![firma3](firma3.png)
 
-# Videoguide ufficiali
-{{< youtube ZjxPVFIvlPg >}}
+# Pagine utili
+- [Pagina unimore dedicata alla firma elettronica](http://certificatidigitali.unimore.it/site/home/articolo113019406.html)
 
 
 
