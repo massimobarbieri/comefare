@@ -31,9 +31,9 @@ UNIMORE mette a disposizione di tutti i docenti una firma elettronica personale 
 Se non puoi installare il software descritto sopra, Aruba mette a disposizione una versione online del software disponibile a [questo indirizzo](https://arubasign.arubapec.it).
 
 
-# Utilizzo di ArubaSign
+## Utilizzo di ArubaSign
 
-## Firmare i documenti
+### Firmare i documenti
 
 1. Apri il programma ArubaSign e attendi l'eventuale aggiornamento dei certificati
 2. Seleziona la scheda *Firma* e trascina il documento da firmare in formato PDF (**Attenzione**: Se possibile, si raccomanda di usare il formato PADES. Questo formato supporta solo il formato PDF come file di input).
