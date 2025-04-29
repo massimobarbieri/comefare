@@ -31,7 +31,7 @@ I software messi a disposizione con l'installazione via rete sono i seguenti:
 | KeePass       | 2.57      |
 | LibreOffice   | 24.8      |
 | PDFsam        | 5.2       |
-| QGis          | 3.34      |
+| QGis          | 3.40 LTR  |
 | VLC           | 3.0       |
 
 

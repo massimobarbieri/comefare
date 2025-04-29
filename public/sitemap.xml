@@ -4,18 +4,24 @@
 
   <url>
     <loc>https://localhost:1313/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/guide/servizi/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+    <loc>https://localhost:1313/guide/rete/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:1313/guide/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/guide/servizi/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -82,12 +88,6 @@
   </url>
   <url>
     <loc>https://localhost:1313/tags/rete/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/guide/rete/</loc>
     <lastmod>2025-04-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
