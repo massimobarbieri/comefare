@@ -1,6 +1,8 @@
 ---
 title: "Auto DSCG: prenotazioni e libretto di viaggio"
 summary: "Come prenotare un auto del DSCG e come compilare il libretto di viaggio"
+aliases: 
+- /auto
 showSummary: true
 description: "Utilizzo delle auto del DSCG"
 #categories: ["Rete"]
