@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wifi on </title>
-    <link>http://localhost:1313/tags/wifi/</link>
+    <link>https://localhost:1313/tags/wifi/</link>
     <description>Recent content in Wifi on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 comefare.dscg.unimore.it</copyright>
-    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>La rete wifi UNIMORE/EDUROAM: come sfruttarla al massimo</title>
-      <link>http://localhost:1313/guide/rete/wifi/</link>
+      <link>https://localhost:1313/guide/rete/wifi/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/rete/wifi/</guid>
+      <guid>https://localhost:1313/guide/rete/wifi/</guid>
       <description>Tutto quello che devi sapere per sfruttare la massimo la rete wifi UNIMORE/EDUROAM presente al DSCG</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/rete/wifi/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/guide/rete/wifi/featured.png" />
     </item>
     
   </channel>
