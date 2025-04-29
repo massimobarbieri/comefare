@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vm on </title>
-    <link>https://comefare.dscg.unimo.it/tags/vm/</link>
+    <link>https://comefare.dscg.unimore.it/tags/vm/</link>
     <description>Recent content in Vm on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 comefare.dscg.unimore.it</copyright>
-    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://comefare.dscg.unimo.it/tags/vm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://comefare.dscg.unimore.it/tags/vm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Usare l&#39;aula informatica virtualizzata</title>
-      <link>https://comefare.dscg.unimo.it/guide/servizi/mydesk/</link>
+      <link>https://comefare.dscg.unimore.it/guide/servizi/mydesk/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://comefare.dscg.unimo.it/guide/servizi/mydesk/</guid>
+      <guid>https://comefare.dscg.unimore.it/guide/servizi/mydesk/</guid>
       <description>Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono state virtualizzate per avere una maggior flessibilità di utilizzo e per consentire agli studenti di poter accedere ai sistemi operativi anche da casa.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimo.it/guide/servizi/mydesk/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/servizi/mydesk/featured.jpg" />
     </item>
     
   </channel>

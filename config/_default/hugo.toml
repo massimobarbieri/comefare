@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://comefare.dscg.unimo.it"
+baseURL = "https://comefare.dscg.unimore.it"
 defaultContentLanguage = "it"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
