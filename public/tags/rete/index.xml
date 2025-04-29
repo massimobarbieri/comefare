@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rete on </title>
-    <link>https://localhost:1313/tags/rete/</link>
+    <link>https://comefare.dscg.unimo.it/tags/rete/</link>
     <description>Recent content in Rete on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 comefare.dscg.unimore.it</copyright>
-    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/rete/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://comefare.dscg.unimo.it/tags/rete/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Accedere al pc dell&#39;ufficio con remote desktop</title>
-      <link>https://localhost:1313/guide/rete/remotedesktop/</link>
+      <link>https://comefare.dscg.unimo.it/guide/rete/remotedesktop/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/guide/rete/remotedesktop/</guid>
+      <guid>https://comefare.dscg.unimo.it/guide/rete/remotedesktop/</guid>
       <description>Tutto quello che devi sapere per accedere in Remote Desktop al pc del tuo ufficio</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/guide/rete/remotedesktop/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimo.it/guide/rete/remotedesktop/featured.png" />
     </item>
     
     <item>
       <title>Accedere al disco di rete Dati DSCG (s:)</title>
-      <link>https://localhost:1313/guide/rete/accedere-al-disco-s/</link>
+      <link>https://comefare.dscg.unimo.it/guide/rete/accedere-al-disco-s/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/guide/rete/accedere-al-disco-s/</guid>
+      <guid>https://comefare.dscg.unimo.it/guide/rete/accedere-al-disco-s/</guid>
       <description>Il disco di rete Dati DSCG (s:) è uno spazio di archiviazione condiviso collocato sui server dei servizi informatici di Ateneo. In questa guida puoi scoprire come utilizzarlo.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/guide/rete/accedere-al-disco-s/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimo.it/guide/rete/accedere-al-disco-s/featured.png" />
     </item>
     
     <item>
       <title>Come usare la VPN di UNIMORE</title>
-      <link>https://localhost:1313/guide/rete/vpn/</link>
+      <link>https://comefare.dscg.unimo.it/guide/rete/vpn/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/guide/rete/vpn/</guid>
+      <guid>https://comefare.dscg.unimo.it/guide/rete/vpn/</guid>
       <description>Tutto quello che devi sapere per usare la VPN di UNIMORE</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/guide/rete/vpn/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimo.it/guide/rete/vpn/featured.png" />
     </item>
     
     <item>
       <title>La rete wifi UNIMORE/EDUROAM: come sfruttarla al massimo</title>
-      <link>https://localhost:1313/guide/rete/wifi/</link>
+      <link>https://comefare.dscg.unimo.it/guide/rete/wifi/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/guide/rete/wifi/</guid>
+      <guid>https://comefare.dscg.unimo.it/guide/rete/wifi/</guid>
       <description>Tutto quello che devi sapere per sfruttare la massimo la rete wifi UNIMORE/EDUROAM presente al DSCG</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/guide/rete/wifi/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimo.it/guide/rete/wifi/featured.png" />
     </item>
     
   </channel>
