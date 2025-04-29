@@ -4,6 +4,8 @@ summary: "Tutto quello che devi sapere per poter utilizzare le fotocopiatrici di
 showSummary: true
 description: "Tutto quello che devi sapere per poter utilizzare le fotocopiatrici dipartimentali"
 #categories: ["Rete"]
+aliases:
+- /fotocopiatrici
 tags: ["stampa", "servizi"]
 date: 2025-03-19
 draft: false

@@ -2,91 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Servizi on </title>
-    <link>https://comefare.dscg.unimore.it/tags/servizi/</link>
+    <link>http://localhost:1313/tags/servizi/</link>
     <description>Recent content in Servizi on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 comefare.dscg.unimore.it</copyright>
-    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://comefare.dscg.unimore.it/tags/servizi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/servizi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Acquisto di materiale informatico</title>
-      <link>https://comefare.dscg.unimore.it/guide/servizi/acquisti/</link>
+      <link>http://localhost:1313/guide/servizi/acquisti/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://comefare.dscg.unimore.it/guide/servizi/acquisti/</guid>
+      <guid>http://localhost:1313/guide/servizi/acquisti/</guid>
       <description>Devi acquistare del materiale informatico con fondi di ricerca e non sai come fare? Leggi questa guida.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/servizi/acquisti/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/acquisti/featured.jpg" />
     </item>
     
     <item>
       <title>ArubaSign: tutto quello che devi sapere</title>
-      <link>https://comefare.dscg.unimore.it/guide/servizi/arubasign/</link>
+      <link>http://localhost:1313/guide/servizi/arubasign/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://comefare.dscg.unimore.it/guide/servizi/arubasign/</guid>
+      <guid>http://localhost:1313/guide/servizi/arubasign/</guid>
       <description>Tutto quello che devi sapere sull&lt;code&gt;installazione e l&lt;/code&gt;utilizo del programma per la firma elettronica ArubaSign.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/servizi/arubasign/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/arubasign/featured.jpg" />
     </item>
     
     <item>
       <title>Installazione di software distribuito</title>
-      <link>https://comefare.dscg.unimore.it/guide/servizi/software-autorizzato/</link>
+      <link>http://localhost:1313/guide/servizi/software-autorizzato/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://comefare.dscg.unimore.it/guide/servizi/software-autorizzato/</guid>
+      <guid>http://localhost:1313/guide/servizi/software-autorizzato/</guid>
       <description>Attraverso il dominio UNIMOREAD vengono messi a disposizione alcuni software che possono essere installati senza i privilegi si amministratore. Scopri come installarli.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/servizi/software-autorizzato/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/software-autorizzato/featured.png" />
     </item>
     
     <item>
       <title>Auto DSCG: prenotazioni e libretto di viaggio</title>
-      <link>https://comefare.dscg.unimore.it/guide/servizi/auto/</link>
+      <link>http://localhost:1313/guide/servizi/auto/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://comefare.dscg.unimore.it/guide/servizi/auto/</guid>
+      <guid>http://localhost:1313/guide/servizi/auto/</guid>
       <description>Come prenotare un auto del DSCG e come compilare il libretto di viaggio</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/servizi/auto/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/auto/featured.jpg" />
     </item>
     
     <item>
       <title>Come ottenere le credenziali UNIMORE</title>
-      <link>https://comefare.dscg.unimore.it/guide/servizi/ottenere-le-credenziali/</link>
+      <link>http://localhost:1313/guide/servizi/ottenere-le-credenziali/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://comefare.dscg.unimore.it/guide/servizi/ottenere-le-credenziali/</guid>
+      <guid>http://localhost:1313/guide/servizi/ottenere-le-credenziali/</guid>
       <description>Che tu stia organizzando un evento, che tu debba frequentare il DSCG per un periodo di tempo, in questa guida puoi trovare come ottenere le credenziali UNIMORE</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/servizi/ottenere-le-credenziali/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/ottenere-le-credenziali/featured.png" />
     </item>
     
     <item>
       <title>Come richiedere una stampa sul plotter</title>
-      <link>https://comefare.dscg.unimore.it/guide/servizi/plotter/</link>
+      <link>http://localhost:1313/guide/servizi/plotter/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://comefare.dscg.unimore.it/guide/servizi/plotter/</guid>
+      <guid>http://localhost:1313/guide/servizi/plotter/</guid>
       <description>Tutto quello che devi sapere per poter richiedere una stampa sul plotter dipartimentale: come preparare il file, come richiedere la stampa, costi</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/servizi/plotter/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/plotter/featured.png" />
     </item>
     
     <item>
       <title>Come usare le fotocopiatrici dipartimentali</title>
-      <link>https://comefare.dscg.unimore.it/guide/servizi/fotocopiatrici/</link>
+      <link>http://localhost:1313/guide/servizi/fotocopiatrici/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://comefare.dscg.unimore.it/guide/servizi/fotocopiatrici/</guid>
+      <guid>http://localhost:1313/guide/servizi/fotocopiatrici/</guid>
       <description>Tutto quello che devi sapere per poter utilizzare le fotocopiatrici dipartimentali</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/servizi/fotocopiatrici/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/fotocopiatrici/featured.jpg" />
     </item>
     
     <item>
       <title>Usare l&#39;aula informatica virtualizzata</title>
-      <link>https://comefare.dscg.unimore.it/guide/servizi/mydesk/</link>
+      <link>http://localhost:1313/guide/servizi/mydesk/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://comefare.dscg.unimore.it/guide/servizi/mydesk/</guid>
+      <guid>http://localhost:1313/guide/servizi/mydesk/</guid>
       <description>Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono state virtualizzate per avere una maggior flessibilità di utilizzo e per consentire agli studenti di poter accedere ai sistemi operativi anche da casa.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/servizi/mydesk/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/servizi/mydesk/featured.jpg" />
     </item>
     
   </channel>
