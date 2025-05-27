@@ -15,7 +15,7 @@ draft: false
 ---
 ![Canon](featured.jpg)
 
-## Installazione delle fotocopiatrici
+## Installazione delle fotocopiatrici come stampanti
 
 
 ### Prerequisiti
@@ -25,28 +25,22 @@ draft: false
 3. Devi essere in possesso di un PIN di stampa (se hai un ruolo non strutturato, prendi accordi con il tuo docente di riferimento che coprirà le spese di stampa e contatta gli amministratori di rete per avere un pin personale).
 
 
-*Vecchie fotocopiarici: Canon 5235i (in dismissione)*
-| IP            | Modello               | Locale                 |
-| :---         | :---                  | :---                   |
-|xxx.xxx.xx.38  | Canon ir-ADV C5235i   | Piano 0 – MO-51-00-066 |
-|xxx.xxx.xx.65  | Canon ir-ADV C5235i   | Piano 1 – MO-51-01-057 |
-
-*Nuove fotocopiarici: Canon imageRUNNER ADVANCE DX C5850i*
-| IP        | Modello                 | Locale                 |
+*Canon imageRUNNER ADVANCE DX C5850i*
+| IP           | Modello                  | Locale                 |
 | :---         | :---                     | :---                   |
 |xxx.xxx.xx.1  | Canon ir-ADV DX C5235i   | Piano 0 – MO-51-00-066 |
 |xxx.xxx.xx.2  | Canon ir-ADV DX C5235i   | Piano 1 – MO-51-01-057 |
 
 ### Installazione in ambiente Windows
 
-1. Scarica il driver dal sito Canon, indica il modello della fotocopiatrice e scegli il formato UFR
+1. Collegati al sito Canon, vai nella sezione *Supporto->Driver*, cerca la stampante indicando il modello *Canon imageRUNNER ADVANCED DX C5850* e scarica il driver compatibile con il tuo sistema operativo scegliendo il formato UFR. (Puoi usare anche questo [link diretto](https://www.canon.it/support/business/products/office-printers/imagerunner/advance-dx/imagerunner-advance-dx-c5850i.html))
 2. Estrai il file facendo doppio click sull’eseguibile. Verrà creata una cartella con al suo interno i file di installazione del driver. Apri la cartella e avvia il *setup*.
 3. Accetta i termini del contratto di licenza premendo “Sì”.
 4. Scegli l’installazione standard e premi Avanti.
-5. Seleziona la fotocopiatrice che desideri installare
+5. Seleziona la fotocopiatrice che desideri installare (vedi tabella riportata sopra)
 6. Al termine della procedura di installazione riavvia il pc
 
-### Installazione in ambiente MacOS
+### Installazione in ambiente MacOS (procedura non testata)
 
 1. Scarica il driver compatibile con la tua versione di MacOS dal sito Canon e scegli il formato UFR
 2. Installa il driver
@@ -58,4 +52,6 @@ draft: false
 8. Aggiungi la stampante
 9. Apri le proprietà del driver di stampa e abilita la gestione ID Dipartimento
 
-
+## Eseguire una copia o una scansione
+Per eseguire una copia o una scansione è necessario autenticarsi sulla fotocopiatrice con l'ID e il PIN fornito dagli amministratori di sistema successivamente premere il tasto *Accedi*.
+![login](login.jpg)
