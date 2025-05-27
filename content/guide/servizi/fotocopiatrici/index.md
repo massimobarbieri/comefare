@@ -25,17 +25,17 @@ draft: false
 3. Devi essere in possesso di un PIN di stampa (se hai un ruolo non strutturato, prendi accordi con il tuo docente di riferimento che coprirà le spese di stampa e contatta gli amministratori di rete per avere un pin personale).
 
 
-*Vecchie fotocopiarici: Canon 5235i*
+*Vecchie fotocopiarici: Canon 5235i (in dismissione)*
 | IP            | Modello               | Locale                 |
 | :---         | :---                  | :---                   |
 |xxx.xxx.xx.38  | Canon ir-ADV C5235i   | Piano 0 – MO-51-00-066 |
 |xxx.xxx.xx.65  | Canon ir-ADV C5235i   | Piano 1 – MO-51-01-057 |
 
-*Nuove fotocopiarici: Canon 5850i*
-| IP            | Modello               | Locale                 |
-| :---         | :---                  | :---                   |
-|xxx.xxx.xx.1  | Canon ir-ADV C5235i   | Piano 0 – MO-51-00-066 |
-|xxx.xxx.xx.2  | Canon ir-ADV C5235i   | Piano 1 – MO-51-01-057 |
+*Nuove fotocopiarici: Canon imageRUNNER ADVANCE DX C5850i*
+| IP        | Modello                 | Locale                 |
+| :---         | :---                     | :---                   |
+|xxx.xxx.xx.1  | Canon ir-ADV DX C5235i   | Piano 0 – MO-51-00-066 |
+|xxx.xxx.xx.2  | Canon ir-ADV DX C5235i   | Piano 1 – MO-51-01-057 |
 
 ### Installazione in ambiente Windows
 
