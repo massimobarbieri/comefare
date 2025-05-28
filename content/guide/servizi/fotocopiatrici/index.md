@@ -55,3 +55,5 @@ draft: false
 ## Eseguire una copia o una scansione
 Per eseguire una copia o una scansione è necessario autenticarsi sulla fotocopiatrice con l'ID e il PIN fornito dagli amministratori di sistema successivamente premere il tasto *Accedi*.
 ![login](login.jpg)
+
+Per ulteriori informazioni sull'uso della fotocopiatrice puoi consultare la [guida ufficiale](https://gdlp01.c-wss.com/gds/2/0300037772/01/iRADV_A3_DX_QOG_EU_multi.pdf).
