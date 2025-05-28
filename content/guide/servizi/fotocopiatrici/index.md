@@ -28,8 +28,8 @@ draft: false
 *Canon imageRUNNER ADVANCE DX C5850i*
 | IP           | Modello                  | Locale                 |
 | :---         | :---                     | :---                   |
-|xxx.xxx.xx.1  | Canon ir-ADV DX C5235i   | Piano 0 – MO-51-00-066 |
-|xxx.xxx.xx.2  | Canon ir-ADV DX C5235i   | Piano 1 – MO-51-01-057 |
+|xxx.xxx.xx.1  | Canon ir-ADV DX C5850i   | Piano 0 – MO-51-00-066 |
+|xxx.xxx.xx.2  | Canon ir-ADV DX C5850i   | Piano 1 – MO-51-01-057 |
 
 ### Installazione in ambiente Windows
 
@@ -37,7 +37,7 @@ draft: false
 2. Estrai il file facendo doppio click sull’eseguibile. Verrà creata una cartella con al suo interno i file di installazione del driver. Apri la cartella e avvia il *setup*.
 3. Accetta i termini del contratto di licenza premendo “Sì”.
 4. Scegli l’installazione standard e premi Avanti.
-5. Seleziona la fotocopiatrice che desideri installare (vedi tabella riportata sopra)
+5. Seleziona la fotocopiatrice che desideri installare (vedi tabella riportata sopra). **Attenzione: fino a che saranno attive anche le vecchie fotocopiatrici, nella lista vedrai anche questa. Presta attenzione e selezione le nuove fotocopiatrici Canon ir-ADV DX C5850i**
 6. Al termine della procedura di installazione riavvia il pc
 
 ### Installazione in ambiente MacOS (procedura non testata)
