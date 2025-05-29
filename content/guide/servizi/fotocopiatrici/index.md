@@ -34,10 +34,10 @@ draft: false
 ### Installazione in ambiente Windows
 
 1. Collegati al sito Canon, vai nella sezione *Supporto->Driver*, cerca la stampante indicando il modello *Canon imageRUNNER ADVANCED DX C5850* e scarica il driver compatibile con il tuo sistema operativo scegliendo il formato UFR. (Puoi usare anche questo [link diretto](https://www.canon.it/support/business/products/office-printers/imagerunner/advance-dx/imagerunner-advance-dx-c5850i.html))
-2. Estrai il file facendo doppio click sull’eseguibile. Verrà creata una cartella con al suo interno i file di installazione del driver. Apri la cartella e avvia il *setup*.
-3. Accetta i termini del contratto di licenza premendo “Sì”.
-4. Scegli l’installazione standard e premi Avanti.
-5. Seleziona la fotocopiatrice che desideri installare (vedi tabella riportata sopra). **Attenzione: finché saranno attive anche le vecchie fotocopiatrici, nella lista vedrai anche queste. Fai attenzione e selezione le nuove fotocopiatrici Canon ir-ADV DX C5850i**
+2. Estrai il file facendo doppio click sull’eseguibile. Verrà creata una cartella con al suo interno i file di installazione del driver. Apri la cartella, entra nella cartella che contiene i file di installazione per sistemi a 64bit e avvia il *setup*.
+3. Accetta i termini del contratto di licenza premendo *Sì*.
+4. Scegli l’installazione standard e premi *Avanti*.
+5. Seleziona la fotocopiatrice che desideri installare (vedi tabella riportata sopra). **Attenzione: finché saranno attive anche le vecchie fotocopiatrici, nella lista vedrai anche queste. Fai attenzione e selezione le nuove fotocopiatrici Canon ir-ADV DX C5850i**. Se non vedi la fotocopiatrice che desideri installare, assicurati che sia accesa e premi il pulsante *Aggiorna* per seguire una nuova scansione della rete.
 6. Al termine della procedura di installazione riavvia il pc
 
 ### Installazione in ambiente MacOS (procedura non testata)
