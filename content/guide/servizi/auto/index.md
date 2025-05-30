@@ -38,7 +38,7 @@ Il sistema di prenotazione degli automezzi del Dipartimento di Scienze Chimiche 
 
 
 ## Cancellare una prenotazione
-Per cancellare la prenotazione di un automezzo è sufficiente cancellare l’evento sul proprio calendario personale.
+**Le prenotazioni dei mezzi dipartimentali possono essere modificate/cancellate SOLO ED ESCLUSIVAMENTE da chi fa la prenotazione**. Per cancellare la prenotazione di un automezzo è sufficiente cancellare l’evento sul proprio calendario personale.
 
 ## Visualizzare il calendario delle prenotazioni delle auto
 È possibile aggiungere i calendari di prenotazione degli automezzi (o di altri locali del DSCG) sul proprio Google Calendar in modo da poter visualizzare rapidamente le prenotazioni già inserite.
