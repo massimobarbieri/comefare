@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sicurezza on </title>
-    <link>http://localhost:1313/tags/sicurezza/</link>
+    <link>https://comefare.dscg.unimore.it/tags/sicurezza/</link>
     <description>Recent content in Sicurezza on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 comefare.dscg.unimore.it</copyright>
-    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sicurezza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://comefare.dscg.unimore.it/tags/sicurezza/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sicurezza informatica DSCG</title>
-      <link>http://localhost:1313/guide/rete/sicurezza/</link>
+      <link>https://comefare.dscg.unimore.it/guide/rete/sicurezza/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/rete/sicurezza/</guid>
+      <guid>https://comefare.dscg.unimore.it/guide/rete/sicurezza/</guid>
       <description>Tutto quello che devi sapere sulle politiche di sicurezza informatica adottate dal DSCG</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guide/rete/sicurezza/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/rete/sicurezza/featured.jpg" />
     </item>
     
   </channel>

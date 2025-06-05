@@ -10,6 +10,16 @@
     <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://comefare.dscg.unimore.it/guide/rete/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Sicurezza informatica DSCG</title>
+      <link>https://comefare.dscg.unimore.it/guide/rete/sicurezza/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://comefare.dscg.unimore.it/guide/rete/sicurezza/</guid>
+      <description>Tutto quello che devi sapere sulle politiche di sicurezza informatica adottate dal DSCG</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://comefare.dscg.unimore.it/guide/rete/sicurezza/featured.jpg" />
+    </item>
+    
+    <item>
       <title>Accedere al pc dell&#39;ufficio con remote desktop</title>
       <link>https://comefare.dscg.unimore.it/guide/rete/remotedesktop/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>

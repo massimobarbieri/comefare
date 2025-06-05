@@ -6,7 +6,7 @@ description: "Tutto quello che devi sapere sulle politiche di sicurezza informat
 #categories: ["Rete"]
 tags: ["rete", "sicurezza"]
 date: 2025-04-23
-draft: true
+draft: false
 #showauthor: false
 #authors:
 #  - max

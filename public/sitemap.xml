@@ -9,7 +9,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://comefare.dscg.unimore.it/tags/rete/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://comefare.dscg.unimore.it/guide/rete/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://comefare.dscg.unimore.it/tags/sicurezza/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://comefare.dscg.unimore.it/guide/rete/sicurezza/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://comefare.dscg.unimore.it/tags/</loc>
     <lastmod>2025-04-23T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -69,12 +93,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://comefare.dscg.unimore.it/tags/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://comefare.dscg.unimore.it/guide/rete/remotedesktop/</loc>
     <lastmod>2025-04-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -82,12 +100,6 @@
   </url>
   <url>
     <loc>https://comefare.dscg.unimore.it/tags/remote-desktop/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://comefare.dscg.unimore.it/tags/rete/</loc>
     <lastmod>2025-04-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
