@@ -25,3 +25,14 @@ Informativi (Ufficio RTD) e Assicurazione Qualità.
 Il C.d.A. ha approvato il nuovo documento di ["Gestione degli incidenti di sicurezza"](https://www.sicurezzaict.unimore.it/2024/07/16/pol01-politica-di-gestione-degli-incidenti-di-sicurezza/)  che spiega in modo dettagliato come comportarsi in caso di incidenti informatici, o sospetti tali, al quale si rimanda.
 
 Tutti gli incidenti informatici (virus, malware, fuga di dati o credenziali, data breach, compromissione di sistemi ecc.) devono essere **comunicati tempestivamente via mail al Referente di Sicurezza della struttura**, che per il Dipartimento di Scienze Chimiche e Geologiche è Massimo Barbieri, il quale avviserà prontamente il CSIRT, punto unico di contatto presso la Direzione Sistemi Informativi di Ateneo, per intraprendere tutte le azioni necessarie per contenere eventuali danni o rischi per altri apparati.
+
+## Posso diventare amministratore locale della mia macchina?
+
+Diventare amministratori locali del proprio PC comporta diverse responsabilità ed è necessario dichiarare nel modulo di richiesta quanto segue:
+- di **avere le competenze** per poter gestire questo ruolo;
+- di **assumersi la responsabilità delle politiche di sicurezza** per la macchina suddetta e **di applicare e rispettare le misure di sicurezza** previste dalla legge (Vedi AgID e https://www.sicurezzaict.unimore.it/);
+- di **aver preso visione delle misure di sicurezza** poste in essere dal Dipartimento di Scienze Chimiche e Geologiche e da UNIMORE;
+- di **sollevare gli amministratori di sistema** del Dipartimento di Scienze Chimiche e Geologiche e il direttore del Dipartimento di Scienze Chimiche e Geologiche dalla responsabilità per quanto riguarda le politiche di sicurezza della macchina sopra citata;
+- di **rispettare i regolamenti di rete** di Ateneo.
+
+Per diventare amministratori locali della propria macchina è necessario compilare il modulo [Assegnazione o rimozione del ruolo di amministratore locale](https://docs.google.com/forms/d/e/1FAIpQLScbFN3aQsTdN6Uuz96SLgBUsm5MaAdNfy-B7Sc19oiJXGcxpg/viewform?usp=sf_link). A seguito della compilazione del modulo verranno fornite le credenziali temporanee di un utente locale collocato nel gruppo *Administrators*. Al primo login con questo utente sarà il cambio della password predefinita. La nuova password avrà una durata di 180 giorni. L'utente amministratore locale dovrà essere usato esclusivamente per le attività che richiedono la modifica del sistema (es. solo per l'installazione del nuovo software).
