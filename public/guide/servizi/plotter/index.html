@@ -29,8 +29,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.77c0fcef09c1e72c36b61a0d64260d24a214a99b07055eefd10e87bf7fcf08265c1c788d708bbe71f2cd771a5ca35cb0e6eb0f2e10e5b519a04f06dc9ee487ef.css"
-    integrity="sha512-d8D87wnB5yw2thoNZCYNJKIUqZsHBV7v0Q6Hv3/PCCZcHHiNcIu&#43;cfLNdxpco1yw5usPLhDltRmgTwbcnuSH7w==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.31efdac1dfd4a5d7cac3cdc32efa6023eb7c14dd0adc1b9610f41317a7ddbe8b9fe5719a36bd6cf3b0dab6c82842f354f7b230d361d5df2e8b653ed138136413.css"
+    integrity="sha512-Me/awd/UpdfKw83DLvpgI&#43;t8FN0K3BuWEPQTF6fdvouf5XGaNr1s87DatsgoQvNU97Iw02HV3y6LZT7ROBNkEw==" />
     
     
     <script>
@@ -65,8 +65,8 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.65b5de43825ad54a420102c9ddccece1f1015665fe76e5b399ba259e1de29f6c83ac1b3cf77beed3d29e26604dfebf561a8e1db523cb6add0d6acccc9e8f1307.js"
-    integrity="sha512-ZbXeQ4Ja1UpCAQLJ3czs4fEBVmX&#43;duWzmbolnh3in2yDrBs893vu09KeJmBN/r9WGo4dtSPLat0NaszMno8TBw==" data-copy="" data-copied=""></script>
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.461c44800ee64aced53547ac575043247d94bd065e67a4918d19a1a1da0a1cff73de01305bf70a1d34d48c4ba7d12ff03613dd007345827c4d07ab5129974e68.js"
+    integrity="sha512-RhxEgA7mSs7VNUesV1BDJH2UvQZeZ6SRjRmhodoKHP9z3gEwW/cKHTTUjEun0S/wNhPdAHNFgnxNB6tRKZdOaA==" data-copy="" data-copied=""></script>
   
   
   
@@ -676,6 +676,9 @@
 
 
 
+
+
+
     </div>
 
     
@@ -704,8 +707,7 @@
       class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
       <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
 
-         <details open id="TOCView"
-  class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+         <details open id="TOCView" class="toc-right mt-0 overflow-y-auto overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
   <summary
     class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
     Indice dei contenuti
@@ -740,31 +742,6 @@
 
 <script>
 
-  var margin = 200;
-  var marginError = 50;
-
-  (function () {
-    var $window = $(window);
-    var $toc = $('#TOCView');
-    var tocHeight = $toc.height();
-
-    function onResize() {
-      var windowAndMarginHeight = $window.height() - margin;
-      if(tocHeight >= windowAndMarginHeight) {
-        $toc.css("overflow-y", "scroll")
-        $toc.css("max-height", (windowAndMarginHeight + marginError) + "px")
-      } else {
-        $toc.css("overflow-y", "hidden")
-        $toc.css("max-height", "9999999px")
-      }
-    }
-
-    $window.on('resize', onResize);
-    $(document).ready(onResize);
-  })();
-
-
-
   (function () {
     var $toc = $('#TableOfContents');
     if ($toc.length > 0) {
@@ -788,7 +765,7 @@
             $(e).removeClass('active');
           
         });
-        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').addClass('active');
         $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
           $(e).children('a').parents('ul').show();          
         });
@@ -802,7 +779,6 @@
     }
   })();
 
-
 </script>
    </div>
       </div>
@@ -815,20 +791,24 @@
 
         <div class="article-content max-w-prose mb-20">
           <p>
-    <figure>
+
+
+
+
+
+<figure>
       <img
-        class="my-0 rounded-md"
-        loading="lazy"
-        srcset="
-        /guide/servizi/plotter/featured_hu6656416078459996139.png 330w,
-        /guide/servizi/plotter/featured_hu16385067502922725285.png 660w,
-        /guide/servizi/plotter/featured_hu5268402528306188057.png 1024w,
-        /guide/servizi/plotter/featured_hu15866249417659317501.png 2x"
-        src="/guide/servizi/plotter/featured_hu16385067502922725285.png"
-        alt="Plotter"
-      />
-      
-    </figure>
+    class="my-0 rounded-md" loading="lazy" decoding="async" fetchpriority="low" alt="Plotter"
+    srcset="
+      /guide/servizi/plotter/featured_hu6656416078459996139.png 330w,
+      /guide/servizi/plotter/featured_hu16385067502922725285.png 660w,
+      /guide/servizi/plotter/featured_hu4145532315292343974.png 1280w"
+    data-zoom-src="/guide/servizi/plotter/featured.png"
+    src="/guide/servizi/plotter/featured.png"
+  />
+
+  
+</figure>
 </p>
 
   
@@ -864,7 +844,6 @@
 <p>Il Dipartimento di Scienze Chimiche e Geologiche dispone di un plotter <em>HP Design Jet T795</em> che può essere utilizzato per effettuare stampe di documenti di grande formato quali poster, locandine o elaborati cartografici. Per effettuare una stampa è necessario <strong>esportare il documento da stampare in formato PDF nelle dimensioni di stampa desiderate</strong> e compilare il <a href="https://docs.google.com/a/unimore.it/forms/d/e/1FAIpQLSf2byZOe-JIdIUbpH4XoZufbc1gaKKgMEbYhSRnw3a7EAh2eQ/viewform?usp=sf_link" target="_blank">modulo di richiesta stampe su plotter</a>.</p>
 <p>Il file di stampa deve essere inviato attraverso il modulo riportato sopra almeno <strong>2 giorni lavorativi prima</strong> del giorno di effettivo utilizzo della stampa (esclusi fine settimana o festività).</p>
 
-
 <h2 class="relative group">Note importanti sul tipo di carta 
     <div id="note-importanti-sul-tipo-di-carta" class="anchor"></div>
     
@@ -873,29 +852,31 @@
 <p>La carta comune è indicata per la maggior parte delle stampe quali poster, locandine ed elaborati cartografici. È estremamente economica, si può arrotolare o piegare facilmente e resiste bene al tempo.</p>
 <p>La carta fotografica è indicata solo per usi molto particolari come locandine con fondo molto scuro o gigantografie che devono avere una resa qualitativamente molto alta. Ha un costo elevato e la superficie della carta è molto più delicata. Questa tipologia di carta non è adatta a poster o elaborati cartografici. (Al momento non disponibile).</p>
 
-
 <h2 class="relative group">Note importanti sulla dimensione del documento 
     <div id="note-importanti-sulla-dimensione-del-documento" class="anchor"></div>
     
 </h2>
 <p>Prima di inviare il documento da stampare in formato PDF, controlla che il file prodotto sia nelle dimensioni di stampa corrette. Esempio se vuoi stampare un poster in formato A0 il documento pdf deve già essere in formato A0 ovvero 1189×841 millimetri.</p>
 <p>
-    <figure>
-      <img
-        class="my-0 rounded-md"
-        loading="lazy"
-        srcset="
-        /guide/servizi/plotter/A_size_illustration_hu11711092290403642608.png 330w,
-        /guide/servizi/plotter/A_size_illustration_hu772725367934129781.png 660w,
-        /guide/servizi/plotter/A_size_illustration_hu3166632505931964039.png 1024w,
-        /guide/servizi/plotter/A_size_illustration_hu14660893465203651253.png 2x"
-        src="/guide/servizi/plotter/A_size_illustration_hu772725367934129781.png"
-        alt="Dimensioni A"
-      />
-      
-    </figure>
-</p>
 
+
+
+
+
+<figure>
+      <img
+    class="my-0 rounded-md" loading="lazy" decoding="async" fetchpriority="low" alt="Dimensioni A"
+    srcset="
+      /guide/servizi/plotter/A_size_illustration_hu11711092290403642608.png 330w,
+      /guide/servizi/plotter/A_size_illustration_hu772725367934129781.png 660w,
+      /guide/servizi/plotter/A_size_illustration_hu12278729512663532022.png 1280w"
+    data-zoom-src="/guide/servizi/plotter/A_size_illustration.png"
+    src="/guide/servizi/plotter/A_size_illustration.png"
+  />
+
+  
+</figure>
+</p>
 
 <h2 class="relative group">Ritiro del documento 
     <div id="ritiro-del-documento" class="anchor"></div>

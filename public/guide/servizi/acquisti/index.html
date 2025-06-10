@@ -29,8 +29,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.77c0fcef09c1e72c36b61a0d64260d24a214a99b07055eefd10e87bf7fcf08265c1c788d708bbe71f2cd771a5ca35cb0e6eb0f2e10e5b519a04f06dc9ee487ef.css"
-    integrity="sha512-d8D87wnB5yw2thoNZCYNJKIUqZsHBV7v0Q6Hv3/PCCZcHHiNcIu&#43;cfLNdxpco1yw5usPLhDltRmgTwbcnuSH7w==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.31efdac1dfd4a5d7cac3cdc32efa6023eb7c14dd0adc1b9610f41317a7ddbe8b9fe5719a36bd6cf3b0dab6c82842f354f7b230d361d5df2e8b653ed138136413.css"
+    integrity="sha512-Me/awd/UpdfKw83DLvpgI&#43;t8FN0K3BuWEPQTF6fdvouf5XGaNr1s87DatsgoQvNU97Iw02HV3y6LZT7ROBNkEw==" />
     
     
     <script>
@@ -65,8 +65,8 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.65b5de43825ad54a420102c9ddccece1f1015665fe76e5b399ba259e1de29f6c83ac1b3cf77beed3d29e26604dfebf561a8e1db523cb6add0d6acccc9e8f1307.js"
-    integrity="sha512-ZbXeQ4Ja1UpCAQLJ3czs4fEBVmX&#43;duWzmbolnh3in2yDrBs893vu09KeJmBN/r9WGo4dtSPLat0NaszMno8TBw==" data-copy="" data-copied=""></script>
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.461c44800ee64aced53547ac575043247d94bd065e67a4918d19a1a1da0a1cff73de01305bf70a1d34d48c4ba7d12ff03613dd007345827c4d07ab5129974e68.js"
+    integrity="sha512-RhxEgA7mSs7VNUesV1BDJH2UvQZeZ6SRjRmhodoKHP9z3gEwW/cKHTTUjEun0S/wNhPdAHNFgnxNB6tRKZdOaA==" data-copy="" data-copied=""></script>
   
   
   
@@ -676,6 +676,9 @@
 
 
 
+
+
+
     </div>
 
     
@@ -704,8 +707,7 @@
       class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
       <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
 
-         <details open id="TOCView"
-  class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+         <details open id="TOCView" class="toc-right mt-0 overflow-y-auto overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
   <summary
     class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
     Indice dei contenuti
@@ -740,31 +742,6 @@
 
 <script>
 
-  var margin = 200;
-  var marginError = 50;
-
-  (function () {
-    var $window = $(window);
-    var $toc = $('#TOCView');
-    var tocHeight = $toc.height();
-
-    function onResize() {
-      var windowAndMarginHeight = $window.height() - margin;
-      if(tocHeight >= windowAndMarginHeight) {
-        $toc.css("overflow-y", "scroll")
-        $toc.css("max-height", (windowAndMarginHeight + marginError) + "px")
-      } else {
-        $toc.css("overflow-y", "hidden")
-        $toc.css("max-height", "9999999px")
-      }
-    }
-
-    $window.on('resize', onResize);
-    $(document).ready(onResize);
-  })();
-
-
-
   (function () {
     var $toc = $('#TableOfContents');
     if ($toc.length > 0) {
@@ -788,7 +765,7 @@
             $(e).removeClass('active');
           
         });
-        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').addClass('active');
         $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
           $(e).children('a').parents('ul').show();          
         });
@@ -801,7 +778,6 @@
       });
     }
   })();
-
 
 </script>
    </div>
@@ -823,7 +799,6 @@
 <p><strong>Le convenzioni</strong>, se attive, <strong>devono sempre essere preferite all’acquisto diretto</strong>.
 È possibile non aderire alla convenzione <strong>solo</strong> se i prodotti offerti <strong>non rispondono adeguatamente alle esigenze tecniche specifiche</strong>. In tal caso, è richiesto al docente di fornire una motivazione dettagliata, includendo anche dati tecnici quantitativi e un confronto con parametri di benchmark.</p>
 
-
 <h2 class="relative group">Acquisto di PC in convenzione 
     <div id="acquisto-di-pc-in-convenzione" class="anchor"></div>
     
@@ -833,14 +808,12 @@
 <p>Per conoscere i prezzi e le caratteristiche tecniche dei prodotti offerti in convenzione consulta la pagina della convenzione <a href="https://intercenter.regione.emilia-romagna.it/servizi-pa/convenzioni/convenzioni-attive/2023/pc-desktop-11/acquisto-e-noleggio-pc-desktop-e-pc-notebook-11" target="_blank">Acquisto e noleggio PC Desktop e PC Notebook 11</a> dove sono presenti i listini e le schede tecniche.</p>
 <p>In caso di urgenza è possibile acquistare PC al di fuori dalle campagne di acquisto promosse dal DSCG. In tal caso ti chiediamo di compilare il modulo <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpZtKP5Hq1NKI66wTgQ2Ii1EOh0U9hspbGMWs7Uvldy4N4TQ/viewform" target="_blank">Dati necessari per acquisti informatici</a>.</p>
 
-
 <h2 class="relative group">Acquisti di minuterie informatiche 
     <div id="acquisti-di-minuterie-informatiche" class="anchor"></div>
     
 </h2>
 <p>Per minuterie informatiche non presenti nelle convenzioni (es. hard disk, RAM, puntatori, ecc.) con spesa inferiore a 400€, gli acquisti possono essere effettuati solo durante le due campagne annuali promosse dal DSCG.</p>
 <p>Per gli accessori già presenti in convenzione, l&rsquo;acquisto può avvenire in qualsiasi momento. Tuttavia, nei limiti del possibile, si raccomanda di pianificare gli ordini in occasione delle due campagne annuali.</p>
-
 
 <h2 class="relative group">Acquisti di toner 
     <div id="acquisti-di-toner" class="anchor"></div>
