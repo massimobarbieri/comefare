@@ -29,8 +29,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.77c0fcef09c1e72c36b61a0d64260d24a214a99b07055eefd10e87bf7fcf08265c1c788d708bbe71f2cd771a5ca35cb0e6eb0f2e10e5b519a04f06dc9ee487ef.css"
-    integrity="sha512-d8D87wnB5yw2thoNZCYNJKIUqZsHBV7v0Q6Hv3/PCCZcHHiNcIu&#43;cfLNdxpco1yw5usPLhDltRmgTwbcnuSH7w==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.31efdac1dfd4a5d7cac3cdc32efa6023eb7c14dd0adc1b9610f41317a7ddbe8b9fe5719a36bd6cf3b0dab6c82842f354f7b230d361d5df2e8b653ed138136413.css"
+    integrity="sha512-Me/awd/UpdfKw83DLvpgI&#43;t8FN0K3BuWEPQTF6fdvouf5XGaNr1s87DatsgoQvNU97Iw02HV3y6LZT7ROBNkEw==" />
     
     
     <script>
@@ -65,8 +65,8 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.65b5de43825ad54a420102c9ddccece1f1015665fe76e5b399ba259e1de29f6c83ac1b3cf77beed3d29e26604dfebf561a8e1db523cb6add0d6acccc9e8f1307.js"
-    integrity="sha512-ZbXeQ4Ja1UpCAQLJ3czs4fEBVmX&#43;duWzmbolnh3in2yDrBs893vu09KeJmBN/r9WGo4dtSPLat0NaszMno8TBw==" data-copy="" data-copied=""></script>
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.461c44800ee64aced53547ac575043247d94bd065e67a4918d19a1a1da0a1cff73de01305bf70a1d34d48c4ba7d12ff03613dd007345827c4d07ab5129974e68.js"
+    integrity="sha512-RhxEgA7mSs7VNUesV1BDJH2UvQZeZ6SRjRmhodoKHP9z3gEwW/cKHTTUjEun0S/wNhPdAHNFgnxNB6tRKZdOaA==" data-copy="" data-copied=""></script>
   
   
   
@@ -676,6 +676,9 @@
 
 
 
+
+
+
     </div>
 
     
@@ -704,8 +707,7 @@
       class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
       <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
 
-         <details open id="TOCView"
-  class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+         <details open id="TOCView" class="toc-right mt-0 overflow-y-auto overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
   <summary
     class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
     Indice dei contenuti
@@ -754,31 +756,6 @@
 
 <script>
 
-  var margin = 200;
-  var marginError = 50;
-
-  (function () {
-    var $window = $(window);
-    var $toc = $('#TOCView');
-    var tocHeight = $toc.height();
-
-    function onResize() {
-      var windowAndMarginHeight = $window.height() - margin;
-      if(tocHeight >= windowAndMarginHeight) {
-        $toc.css("overflow-y", "scroll")
-        $toc.css("max-height", (windowAndMarginHeight + marginError) + "px")
-      } else {
-        $toc.css("overflow-y", "hidden")
-        $toc.css("max-height", "9999999px")
-      }
-    }
-
-    $window.on('resize', onResize);
-    $(document).ready(onResize);
-  })();
-
-
-
   (function () {
     var $toc = $('#TableOfContents');
     if ($toc.length > 0) {
@@ -802,7 +779,7 @@
             $(e).removeClass('active');
           
         });
-        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').addClass('active');
         $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
           $(e).children('a').parents('ul').show();          
         });
@@ -816,7 +793,6 @@
     }
   })();
 
-
 </script>
    </div>
       </div>
@@ -829,24 +805,27 @@
 
         <div class="article-content max-w-prose mb-20">
           <p>
-    <figure>
+
+
+
+
+
+<figure>
       <img
-        class="my-0 rounded-md"
-        loading="lazy"
-        srcset="
-        /guide/servizi/mydesk/featured_hu2893719430529978852.jpg 330w,
-        /guide/servizi/mydesk/featured_hu16420087283171339742.jpg 660w,
-        /guide/servizi/mydesk/featured_hu12844597360539318360.jpg 1024w,
-        /guide/servizi/mydesk/featured_hu2671401450022704287.jpg 2x"
-        src="/guide/servizi/mydesk/featured_hu16420087283171339742.jpg"
-        alt="VM"
-      />
-      
-    </figure>
+    class="my-0 rounded-md" loading="lazy" decoding="async" fetchpriority="low" alt="VM"
+    srcset="
+      /guide/servizi/mydesk/featured_hu2893719430529978852.jpg 330w,
+      /guide/servizi/mydesk/featured_hu16420087283171339742.jpg 660w,
+      /guide/servizi/mydesk/featured_hu12255684687096375005.jpg 1280w"
+    data-zoom-src="/guide/servizi/mydesk/featured.jpg"
+    src="/guide/servizi/mydesk/featured.jpg"
+  />
+
+  
+</figure>
 
 Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono state virtualizzate per avere una maggior flessibilità di utilizzo e per consentire agli studenti di poter accedere ai sistemi operativi anche da casa.</p>
 <p>In aula troverai dei Terminal Client (TC), si tratta di semplici PC che hanno il compito di collegarti alle Virtual Machine (VM). Dopo aver effettuato il login con le tue credenziali UNIMORE, potrai scegliere quale sistema operativo virtualizzato avviare (Windows o GNU Linux). Anche da casa, con il tuo pc, potrai accedere ai medesimi sistemi.</p>
-
 
 <h2 class="relative group">Puoi vedere solo le VM del tuo dipartimento 
     <div id="puoi-vedere-solo-le-vm-del-tuo-dipartimento" class="anchor"></div>
@@ -856,13 +835,11 @@ Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono stat
 <p>Se sei uno studente che afferisce ad un altro dipartimento, ma hai necessità di accedere alle VM del DSCG, parla con il tuo insegnante e chiedi di inoltrare una richiesta ai <a href="https://www.sia.unimore.it/site/home/referenti-informatici.html" target="_blank">referenti informatici</a> del DSCG.</p>
 <p>Se sei un docente che afferisce ad un dipartimento diverso dal DSCG e hai necessità di accedere alle VM del DSCG scrivi ai <a href="https://www.sia.unimore.it/site/home/referenti-informatici.html" target="_blank">referenti informatici</a> del DSCG.</p>
 
-
 <h2 class="relative group">Quanti Terminal Client ci sono al DSCG? 
     <div id="quanti-terminal-client-ci-sono-al-dscg" class="anchor"></div>
     
 </h2>
 <p>Nelle DSCG abbiamo 24 TC nell&rsquo;aula int-3 e 16 TC nel laboratorio di calcolo P2.</p>
-
 
 <h2 class="relative group">Quante Virtual Machine abbiamo? 
     <div id="quante-virtual-machine-abbiamo" class="anchor"></div>
@@ -913,28 +890,30 @@ Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono stat
 <li>giorni e fascie orarie di utilizzo</li>
 </ul>
 
-
 <h2 class="relative group">Accedere alle VM da casa 
     <div id="accedere-alle-vm-da-casa" class="anchor"></div>
     
 </h2>
 <p>
-    <figure>
-      <img
-        class="my-0 rounded-md"
-        loading="lazy"
-        srcset="
-        /guide/servizi/mydesk/uds_hu17082429185806271297.png 330w,
-        /guide/servizi/mydesk/uds_hu4979377319246070295.png 660w,
-        /guide/servizi/mydesk/uds_hu17123415489337033463.png 1024w,
-        /guide/servizi/mydesk/uds_hu5261309903466194413.png 2x"
-        src="/guide/servizi/mydesk/uds_hu4979377319246070295.png"
-        alt="UDS"
-      />
-      
-    </figure>
-</p>
 
+
+
+
+
+<figure>
+      <img
+    class="my-0 rounded-md" loading="lazy" decoding="async" fetchpriority="low" alt="UDS"
+    srcset="
+      /guide/servizi/mydesk/uds_hu17082429185806271297.png 330w,
+      /guide/servizi/mydesk/uds_hu4979377319246070295.png 660w,
+      /guide/servizi/mydesk/uds_hu14163501998727093398.png 1280w"
+    data-zoom-src="/guide/servizi/mydesk/uds.png"
+    src="/guide/servizi/mydesk/uds.png"
+  />
+
+  
+</figure>
+</p>
 
 <h3 class="relative group">Accesso semplice in HTML5 
     <div id="accesso-semplice-in-html5" class="anchor"></div>
@@ -946,7 +925,6 @@ Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono stat
 <li>Scegli come autenticatore “Laboratori” e fai il login con le tue credenziali unimore.</li>
 <li>Ti comparirà una schermata con i PC disponibili per i laboratori informatici del DSCG</li>
 </ol>
-
 
 <h3 class="relative group">Accesso RDP 
     <div id="accesso-rdp" class="anchor"></div>
@@ -965,7 +943,6 @@ Le aule informatiche del Dipartimento di Scienze Chimiche e Geologiche sono stat
 <li>Collegati alla pagina <a href="https://mydesk.unimore.it" target="_blank">https://mydesk.unimore.it</a> scegli come autenticatore “laboratori” e fai il login con le tue credenziali unimore.</li>
 <li>Clicca sul menu relativo alla macchina (icona con 3 linee) e scegli Connessioni &gt; Direct rdp poi scegli conferma l’apertura del client UDS</li>
 </ol>
-
 
 <h2 class="relative group">Dove posso salvare i miei dati? 
     <div id="dove-posso-salvare-i-miei-dati" class="anchor"></div>
