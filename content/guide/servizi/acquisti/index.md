@@ -19,7 +19,7 @@ Tutti gli acquisti di materiale informatico del DSCG, di qualunque tipologia, po
 
 Non sono previste altre modalità.
 
-**Le convenzioni**, se attive, **devono sempre essere preferite all’acquisto diretto**.
+**Le convenzioni**, se attive, **hanno precedenza sull'acquisto diretto**.
 È possibile non aderire alla convenzione **solo** se i prodotti offerti **non rispondono adeguatamente alle esigenze tecniche specifiche**. In tal caso, è richiesto al docente di fornire una motivazione dettagliata, includendo anche dati tecnici quantitativi e un confronto con parametri di benchmark.
 
 ## Acquisto di PC in convenzione
