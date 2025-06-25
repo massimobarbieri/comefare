@@ -50,7 +50,7 @@ draft: false
 6. Scegli il protocollo di stampa LPD
 7. Sostituisci il driver Generic PostScript con il driver installato precedentemente individuando il modello ImageRunner ADV C5850i
 8. Aggiungi la stampante
-9. Apri le proprietà del driver di stampa e abilita la gestione ID Dipartimento
+9. Apri le proprietà del driver di stampa nella scheda utility e abilita la gestione ID Dipartimento. Nella stessa scheda troverai un pulsante che permette di acquisire le informazioni dalla stampante. Premilo per aggiornare il driver con la configurazione della stampante.
 
 ## Eseguire una copia o una scansione
 Per eseguire una copia o una scansione è necessario autenticarsi sulla fotocopiatrice con l'ID e il PIN fornito dagli amministratori di sistema successivamente premere il tasto *Accedi*.
