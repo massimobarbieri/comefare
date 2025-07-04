@@ -13,10 +13,6 @@ draft: false
 ---
 ![Plotter](featured.png)
 
-{{< alert >}}
-Attenzione!! A causa di un guasto non è possibile effettuare stampe sul plotter. Sarete avvisati attraverso la lista all.chimgeo di eventuali sviluppi.
-{{< /alert >}}
-
 Il Dipartimento di Scienze Chimiche e Geologiche dispone di un plotter *HP Design Jet T795* che può essere utilizzato per effettuare stampe di documenti di grande formato quali poster, locandine o elaborati cartografici. Per effettuare una stampa è necessario **esportare il documento da stampare in formato PDF nelle dimensioni di stampa desiderate** e compilare il [modulo di richiesta stampe su plotter](https://docs.google.com/a/unimore.it/forms/d/e/1FAIpQLSf2byZOe-JIdIUbpH4XoZufbc1gaKKgMEbYhSRnw3a7EAh2eQ/viewform?usp=sf_link).
 
 Il file di stampa deve essere inviato attraverso il modulo riportato sopra almeno **2 giorni lavorativi prima** del giorno di effettivo utilizzo della stampa (esclusi fine settimana o festività).
