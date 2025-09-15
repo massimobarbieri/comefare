@@ -4,7 +4,43 @@
 
   <url>
     <loc>https://comefare.dscg.unimore.it/</loc>
-    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://comefare.dscg.unimore.it/guide/servizi/office/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://comefare.dscg.unimore.it/tags/servizi/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://comefare.dscg.unimore.it/guide/servizi/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://comefare.dscg.unimore.it/tags/software/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://comefare.dscg.unimore.it/tags/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://comefare.dscg.unimore.it/guide/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -29,24 +65,6 @@
   <url>
     <loc>https://comefare.dscg.unimore.it/guide/rete/sicurezza/</loc>
     <lastmod>2025-04-23T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://comefare.dscg.unimore.it/tags/</loc>
-    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://comefare.dscg.unimore.it/guide/</loc>
-    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://comefare.dscg.unimore.it/guide/servizi/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -76,18 +94,6 @@
   </url>
   <url>
     <loc>https://comefare.dscg.unimore.it/guide/servizi/software-autorizzato/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://comefare.dscg.unimore.it/tags/servizi/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://comefare.dscg.unimore.it/tags/software/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

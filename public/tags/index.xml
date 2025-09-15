@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 comefare.dscg.unimore.it</copyright>
-    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://comefare.dscg.unimore.it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://comefare.dscg.unimore.it/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Servizi</title>
+      <link>https://comefare.dscg.unimore.it/tags/servizi/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://comefare.dscg.unimore.it/tags/servizi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://comefare.dscg.unimore.it/tags/software/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://comefare.dscg.unimore.it/tags/software/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Rete</title>
@@ -45,26 +65,6 @@
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://comefare.dscg.unimore.it/tags/firma-elettronica/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Servizi</title>
-      <link>https://comefare.dscg.unimore.it/tags/servizi/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://comefare.dscg.unimore.it/tags/servizi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://comefare.dscg.unimore.it/tags/software/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://comefare.dscg.unimore.it/tags/software/</guid>
       <description></description>
       
     </item>
