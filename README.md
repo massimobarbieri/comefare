@@ -6,6 +6,7 @@ Il sorgente del js è qui: https://cdn.jsdelivr.net/gh/sprucejoy/cookie-consent-
 Il file è pubblicato con licenza MIT
 
 il codice aggiunto dell'head è il seguente:
+``
 <!--- START cookie consent code --->
     <script>
   window.__SJ_MESSAGE__ =
@@ -19,4 +20,5 @@ il codice aggiunto dell'head è il seguente:
       src="https://cdn.jsdelivr.net/gh/sprucejoy/cookie-consent-autoblock-gdpr/cookie-consent.js"
       crossorigin="anonymous"
     ></script>
-    <!--- END cookie consent code --->
+<!--- END cookie consent code --->
+``
