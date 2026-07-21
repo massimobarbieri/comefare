@@ -6,7 +6,8 @@ Il sorgente del js è qui: https://cdn.jsdelivr.net/gh/sprucejoy/cookie-consent-
 Il file è pubblicato con licenza MIT
 
 il codice aggiunto dell'head è il seguente:
-``<!--- START cookie consent code --->``
+```
+<!--- START cookie consent code --->
     <script>
   window.__SJ_MESSAGE__ =
     'Per offrirti la migliore esperienza utente possibile, questo sito web utilizza i cookie. Continuando a navigare su questo sito, acconsenti all`utilizzo dei cookie.'
@@ -20,4 +21,4 @@ il codice aggiunto dell'head è il seguente:
       crossorigin="anonymous"
     ></script>
 <!--- END cookie consent code --->
-``
+```
