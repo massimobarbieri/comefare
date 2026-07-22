@@ -28,7 +28,7 @@ Tutti gli incidenti informatici (virus, malware, fuga di dati o credenziali, dat
 
 ## Amministratore locale del proprio PC
 
-Diventare amministratori locali del proprio PC comporta una serie di responsabilità. È pertanto necessario, nel modulo di richiesta, dichiarare quanto segue:
+Diventare amministratori locali del proprio PC comporta una serie di responsabilità, sarà pertanto necessario compilare un modulo di assunzione di riesponsabilità nel quale si dichiarerà quanto segue:
 
 - di possedere le competenze necessarie per gestire in autonomia il ruolo di amministratore locale;
 - di assumersi la piena responsabilità in merito alle politiche di sicurezza della macchina in questione, impegnandosi ad applicare e rispettare le misure previste dalla normativa vigente (vedi AgID e https://www.sicurezzaict.unimore.it/);
@@ -38,5 +38,5 @@ Diventare amministratori locali del proprio PC comporta una serie di responsabil
 
 Per ottenere il ruolo di amministratore locale è necessario compilare il modulo [Assegnazione o rimozione del ruolo di amministratore locale](https://docs.google.com/forms/d/e/1FAIpQLScbFN3aQsTdN6Uuz96SLgBUsm5MaAdNfy-B7Sc19oiJXGcxpg/viewform?usp=sf_link). Una volta approvata la richiesta, verranno fornite credenziali temporanee per un utente locale appartenente al gruppo “Administrators”.
 
-Al primo accesso sarà richiesto il cambio obbligatorio della password predefinita. La nuova password avrà validità di 180 giorni. L’account di amministratore locale dovrà essere utilizzato esclusivamente per attività che richiedono privilegi elevati, come ad esempio l’installazione di software.
+Al primo accesso sarà richiesto il cambio obbligatorio della password predefinita. La nuova password avrà validità di 180 giorni. **L’account di amministratore locale dovrà essere utilizzato esclusivamente per attività che richiedono privilegi elevati, come ad esempio l’installazione di software.**
 
