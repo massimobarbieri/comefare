@@ -24,14 +24,9 @@ Non sono previste altre modalità.
 
 ## Acquisto di PC in convenzione
 
-La convenzione Intercenter *Acquisto e noleggio PC Desktop e PC Notebook 11* (scadenze: 19/06/2025 per i notebook, 05/10/2025 per i desktop) propone notebook e desktop Lenovo di fascia medio-alta con relativi accessori.
-
 Per semplificare le procedure amministrative, **il DSCG promuove due campagne annuali di acquisto cumulativo di PC**: una in primavera e una in autunno. Ti invitamo, se possibile, pianificare i tuoi acquisti tenendo conto di queste due campagne.
 
-Per conoscere i prezzi e le caratteristiche tecniche dei prodotti offerti in convenzione consulta la pagina della convenzione [Acquisto e noleggio PC Desktop e PC Notebook 11](https://intercenter.regione.emilia-romagna.it/servizi-pa/convenzioni/convenzioni-attive/2023/pc-desktop-11/acquisto-e-noleggio-pc-desktop-e-pc-notebook-11) dove sono presenti i listini e le schede tecniche.
-
 In caso di urgenza è possibile acquistare PC al di fuori dalle campagne di acquisto promosse dal DSCG. In tal caso ti chiediamo di compilare il modulo [Dati necessari per acquisti informatici](https://docs.google.com/forms/d/e/1FAIpQLSfpZtKP5Hq1NKI66wTgQ2Ii1EOh0U9hspbGMWs7Uvldy4N4TQ/viewform).
-
 
 ## Acquisti di minuterie informatiche
 
