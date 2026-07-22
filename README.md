@@ -1,8 +1,8 @@
 # Override
 ## Cookie banner
-Il cookie banner è stato aggiunto nel file di override ``layout/partials/head.html`` seguendo la guida pubblicata qui: https://discourse.gohugo.io/t/cookie-consent-script-display-banner-and-autoblock-tracking-tags-with-1-line-code-for-gdpr-ccpa/32239
+Il cookie banner è stato aggiunto nel file di override ``layout/partials/extend-head.html`` seguendo la guida pubblicata qui: https://discourse.gohugo.io/t/cookie-consent-script-display-banner-and-autoblock-tracking-tags-with-1-line-code-for-gdpr-ccpa/32239
 
-Potrebbe seccedere che, dopo un upgrade di blowfish, si rompano gli override. Se succede ricostruire l'verride partendo dal file originale di blowfish.
+Se dopo un upgrade di blowfish, si rompano gli override occorre mettere mano a questo file. Tuttavia la forma *extend* dovremme semplicemente aggiungere un include al file originale.
 
 Il sorgente del js è qui: https://cdn.jsdelivr.net/gh/sprucejoy/cookie-consent-autoblock-gdpr/
 
@@ -20,7 +20,7 @@ il codice aggiunto dell'head è il seguente:
 </script>
   
     <script
-      src="https://cdn.jsdelivr.net/gh/sprucejoy/cookie-consent-autoblock-gdpr/cookie-consent.js"
+      src="/js/cookie-consent.js"
       crossorigin="anonymous"
     ></script>
 <!--- END cookie consent code --->
