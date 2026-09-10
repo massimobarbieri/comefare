@@ -6,6 +6,7 @@ description: "Come ottenere le credenziali UNIMORE"
 #categories: ["Rete"]
 tags: ["identity", "servizi"]
 date: 2025-03-19
+lastmod: 2026-09-10
 draft: false
 #showauthor: false
 #authors:
