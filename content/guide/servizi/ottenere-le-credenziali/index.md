@@ -18,68 +18,11 @@ draft: false
 Le credenziali UNIMORE per il personale strutturato, per ricercatori a tempo determinato, per assegnisti, per studenti erasmus e per dottorandi sono rilasciate direttamente dagli uffici competenti dell’amministrazione centrale.
 {{< /alert >}}
 
-Per tutti gli altri casi le credenziali possono essere richieste via email, dal docente di riferimento, ai referenti identity del Dipartimento di Scienze Chimiche e Geologiche: Massimo Barbieri e Simona Piaggi.
+Per tutti gli altri casi le credenziali possono essere richieste via email al personale dei riferimento del Dipartimento di Scienze Chimiche e Geologiche.
 
-Nell’email di richiesta di credenziali per un utente esterno si prega di indicare la **data di inizio e fine dell’incarico** che coinciderà con la data di attivazione dell’account e il **tipo di incarico** che lega il collaboratore ad UNIMORE scegliendolo dal seguente elenco:
+Per contratti di lavoro, docenza o collaborazione (anche a titolo gratuito) contattare [Silvia Minervini](https://unimore.unifind.cineca.it/get/person/021080), per tutti gli altri casi contattare [Massimo Barbieri](https://unimore.unifind.cineca.it/get/person/061199) e [Simona Piaggi](https://unimore.unifind.cineca.it/get/person/020731).
 
-- COLLABORATORE COORDINATO CONTINUATIVO
-- COLLABORATORE DI RICERCA (a titolo gratuito)
-- COLLABORATORE IN SPIN OFF
-- COMPONENTE ORGANI COLLEGIALI
-- CONVENZIONATO (clienti delle convenzioni)
-- CULTORE DELLA MATERIA
-- DIPENDENTE ALTRA UNIVERSITA
-- DIPENDENTE ALTRO ENTE DI RICERCA
-- DIPENDENTE AZIENDA POLICLINICO (senza VPN)
-- DIPENDENTE DI ALTRA AZIENDA SANITARIA
-- DOTTORANDO DI ALTRA UNIVERSITA
-- Didattica integrativa (conferibile a Dottorandi e Assegnisti)
-- Docente Interateneo
-- Docente a contratto
-- Docente in convenzione
-- Esse3PA
-- FORNITORE (dipendente o titolare delle ditte fornitrici)
-- FREQUENTATORE BIBLIOTECA
-- Insegnamento in scuole di specialità e master
-- Interinale
-- LAUREATO FREQUENTATORE
-- LAVORATORE OCCASIONALE (contratto personale senza partita IVA)
-- LIBERO PROFESSIONISTA (Contratto personale con partita IVA)
-- MANUTENTORE
-- OSPITE (di solito di lunga durata)
-- OSPITE CON ACCESSO AL SERVIZIO VPN
-- PROFESSORE FUORI RUOLO Esterno
-- Personale ARESTUD
-- Personale International Welcome Desk
-- Personale MORE service
-- Personale Tecnico-Amministrativo
-- Professore emerito
-- RAPPRESENTANTE STUDENTI
-- Referente Moodle
-- Referente Teams
-- Referente informatico
-- SENIOR PROFESSOR
-- SPECIALIZZANDI DA SEDI CAPOFILA
-- STAGISTA
-- STUDENTE 150 ORE
-- STUDENTE DI ALTRA UNIVERSITA
-- SUPERVISORE SISS
-- SUPPLENTE DOCENTE
-- Supporto didattica lingue
-- TIROCINANTE DI DIPARTIMENTO
-- TIROCINANTE SCUOLE SUPERIORI
-- TITOLARE DI BORSA DI STUDIO
-- Tutor
-- Tutor di tirocinio
-- VISITING PROFESSOR
-
-Una volta forniti questi dati i referenti informatici risponderanno con un link che potrà essere usato in due modi a seconda che l'utente che deve ottenere le credenziali sia provvisto di SPID oppure no:
-
-1. **L’utente ha lo SPID.** Il docente può inoltrare il link all’utente che necessita delle credenziali. L'utente dovrà fare il login con lo SPID e autorizzare UNIMORE a gestire i suoi dati.
-
-2. **L’utente NON ha lo SPID.** Il docente può inoltrare il link all’utente il quale potrà caricare manualmente i propri dati e creare l’anagrafica su UNIMORE. Questo vale anche per gli utenti stranieri non provvisti di codice fiscale: il sistema di pre-caricamento provvederà a generare un codice fiscale sulla base dei dati inseriti
-
-Una volta creata l’anagrafica, i referenti informatici assoceranno all’utente un incarico che permetterà di attivare le credenziali UNIMORE. L’utente appena registrato riceverà una email automatica con le istruzioni da seguire per recuperare la password di accesso.
+Nell’email di richiesta di si prega di indicare la **data di inizio e fine dell’incarico** che coinciderà con la data di attivazione dell’account e il **tipo di incarico**.
 
 ## Credenziali per eventi
 
