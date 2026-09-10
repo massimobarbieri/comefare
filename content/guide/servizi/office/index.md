@@ -6,6 +6,7 @@ description: "Licenze Office in base al ruolo"
 #categories: ["Rete"]
 tags: ["software", "servizi"]
 date: 2025-09-15
+lastmod: 2026-09-10
 draft: false
 #showauthor: true
 #authors:
@@ -29,4 +30,4 @@ AVVISO: La licenza A1 **non consente il dowload delle app desktop di Office 365*
 {{< /alert >}}
 
 Ulteriori informazioni sono disponibili su questa pagina UNIMORE:
-https://www.sia.unimore.it/site/home/licenze-software/microsoft-e-ibm.html
+https://www.diaq.unimore.it/software-e-utility/
