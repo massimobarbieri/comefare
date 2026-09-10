@@ -6,6 +6,7 @@ description: "Come installare il software distribuito attraverso il dominio Acti
 #categories: ["Rete"]
 tags: ["software", "servizi"]
 date: 2025-04-10
+lastmod: 2026-09-10
 draft: false
 #showauthor: true
 #authors:
@@ -24,13 +25,14 @@ I software messi a disposizione con l'installazione via rete sono i seguenti:
 
 | Software      | Version   |
 | ------------- | -------   |
-| 7-Zip         | 24.8      |
-| Arubasign     | 24.1      |
-| Google Chrome | 135.0     |
+| 7-Zip         | 26.2      |
+| Arubasign     | 26.2      |
+| Gimp          | 3         |
 | Inkscape      | 1.4       |
-| KeePass       | 2.57      |
+| KeePassXC     | 2.7       |
 | LibreOffice   | 24.8      |
-| PDFsam        | 5.2       |
+| Notepad++     | 8.9       |
+| PDFsam        | 6.0       |
 | QGis          | 3.40 LTR  |
 | VLC           | 3.0       |
 
