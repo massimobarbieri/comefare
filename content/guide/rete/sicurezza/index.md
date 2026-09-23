@@ -6,6 +6,7 @@ description: "Tutto quello che devi sapere sulle politiche di sicurezza informat
 #categories: ["Rete"]
 tags: ["rete", "sicurezza"]
 date: 2025-04-23
+lastmod: 2026-09-23
 draft: false
 #showauthor: false
 #authors:
@@ -17,12 +18,11 @@ Il Dipartimento di Scienze Chimiche e Geologiche (DSCG) adotta le Misure Minime 
 
 ## Raccomandazioni di sicurezza informatica
 
-Per quanto riguarda le raccomandazioni generali di sicurezza informatica valide per gli utenti e per gli amministratori locali si rimanda al documento UNIMORE ["RACCOMANDAZIONI DI SICUREZZA INFORMATICA"](https://www.sicurezzaict.unimore.it/wp-content/uploads/2024/06/2024-raccomandazioni-di-sicurezza-ICT.pdf) redatto da Gruppo Sicurezza ICT della Direzione Sistemi
-Informativi (Ufficio RTD) e Assicurazione Qualità.
+Per quanto riguarda le raccomandazioni generali di sicurezza informatica valide per gli utenti e per gli amministratori locali si rimanda al documento UNIMORE "RACCOMANDAZIONI DI SICUREZZA INFORMATICA" disponibile sul sito web [www.sicurezzaict.unimore.it](https://www.sicurezzaict.unimore.it).
 
 ## Cosa fare in caso di incidente informatico
 
-Il C.d.A. ha approvato il nuovo documento di ["Gestione degli incidenti di sicurezza"](https://www.sicurezzaict.unimore.it/2024/07/16/pol01-politica-di-gestione-degli-incidenti-di-sicurezza/)  che spiega in modo dettagliato come comportarsi in caso di incidenti informatici, o sospetti tali, al quale si rimanda.
+Il C.d.A. ha approvato il nuovo documento di ["Gestione degli incidenti di sicurezza"](https://www.sicurezzaict.unimore.it)  che spiega in modo dettagliato come comportarsi in caso di incidenti informatici, o sospetti tali, al quale si rimanda.
 
 Tutti gli incidenti informatici (virus, malware, fuga di dati o credenziali, data breach, compromissione di sistemi ecc.) devono essere **comunicati tempestivamente via mail al Referente di Sicurezza della struttura**, che per il Dipartimento di Scienze Chimiche e Geologiche è Massimo Barbieri, il quale avviserà prontamente il CSIRT, punto unico di contatto presso la Direzione Sistemi Informativi di Ateneo, per intraprendere tutte le azioni necessarie per contenere eventuali danni o rischi per altri apparati.
 
